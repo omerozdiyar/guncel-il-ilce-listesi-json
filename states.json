@@ -1,0 +1,488 @@
+[
+	{
+		"country_code": "TR",
+		"code": "01",
+		"default_name": "Adana",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "02",
+		"default_name": "Adıyaman",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "03",
+		"default_name": "Afyonkarahisar",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "04",
+		"default_name": "Ağrı",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "05",
+		"default_name": "Amasya",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "06",
+		"default_name": "Ankara",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "07",
+		"default_name": "Antalya",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "08",
+		"default_name": "Artvin",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "09",
+		"default_name": "Aydın",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "10",
+		"default_name": "Balıkesir",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "74",
+		"default_name": "Bartın",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "72",
+		"default_name": "Batman",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "69",
+		"default_name": "Bayburt",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "11",
+		"default_name": "Bilecik",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "12",
+		"default_name": "Bingöl",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "13",
+		"default_name": "Bitlis",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "14",
+		"default_name": "Bolu",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "15",
+		"default_name": "Burdur",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "16",
+		"default_name": "Bursa",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "17",
+		"default_name": "Çanakkale",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "18",
+		"default_name": "Çankırı",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "19",
+		"default_name": "Çorum",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "20",
+		"default_name": "Denizli",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "21",
+		"default_name": "Diyarbakır",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "81",
+		"default_name": "Düzce",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "22",
+		"default_name": "Edirne",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "23",
+		"default_name": "Elazığ",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "24",
+		"default_name": "Erzincan",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "25",
+		"default_name": "Erzurum",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "26",
+		"default_name": "Eskişehir",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "27",
+		"default_name": "Gaziantep",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "28",
+		"default_name": "Giresun",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "29",
+		"default_name": "Gümüşhane",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "30",
+		"default_name": "Hakkari",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "31",
+		"default_name": "Hatay",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "76",
+		"default_name": "Iğdır",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "32",
+		"default_name": "Isparta",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "34",
+		"default_name": "İstanbul",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "35",
+		"default_name": "İzmir",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "46",
+		"default_name": "Kahramanmaraş",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "78",
+		"default_name": "Karabük",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "70",
+		"default_name": "Karaman",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "36",
+		"default_name": "Kars",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "37",
+		"default_name": "Kastamonu",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "38",
+		"default_name": "Kayseri",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "71",
+		"default_name": "Kırıkkale",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "39",
+		"default_name": "Kırklareli",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "40",
+		"default_name": "Kırşehir",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "79",
+		"default_name": "Kilis",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "41",
+		"default_name": "Kocaeli",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "42",
+		"default_name": "Konya",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "43",
+		"default_name": "Kütahya",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "44",
+		"default_name": "Malatya",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "45",
+		"default_name": "Manisa",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "47",
+		"default_name": "Mardin",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "33",
+		"default_name": "Mersin",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "48",
+		"default_name": "Muğla",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "49",
+		"default_name": "Muş",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "50",
+		"default_name": "Nevşehir",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "51",
+		"default_name": "Niğde",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "52",
+		"default_name": "Ordu",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "80",
+		"default_name": "Osmaniye",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "53",
+		"default_name": "Rize",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "54",
+		"default_name": "Sakarya",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "55",
+		"default_name": "Samsun",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "56",
+		"default_name": "Siirt",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "57",
+		"default_name": "Sinop",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "58",
+		"default_name": "Sivas",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "63",
+		"default_name": "Şanlıurfa",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "73",
+		"default_name": "Şırnak",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "59",
+		"default_name": "Tekirdağ",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "60",
+		"default_name": "Tokat",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "61",
+		"default_name": "Trabzon",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "62",
+		"default_name": "Tunceli",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "64",
+		"default_name": "Uşak",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "65",
+		"default_name": "Van",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "77",
+		"default_name": "Yalova",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "66",
+		"default_name": "Yozgat",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "67",
+		"default_name": "Zonguldak",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "68",
+		"default_name": "Aksaray",
+		"country_id": 233
+	},
+	{
+		"country_code": "TR",
+		"code": "75",
+		"default_name": "Ardahan",
+		"country_id": 233
+	}
+]

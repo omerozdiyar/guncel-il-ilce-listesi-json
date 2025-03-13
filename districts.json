@@ -1,0 +1,6002 @@
+{
+	"01": [
+		{
+			"country_id": 233,
+			"state_code": "01",
+			"code": "0101",
+			"default_name": "Aladağ"
+		},
+		{
+			"country_id": 233,
+			"state_code": "01",
+			"code": "0102",
+			"default_name": "Ceyhan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "01",
+			"code": "0103",
+			"default_name": "Çukurova"
+		},
+		{
+			"country_id": 233,
+			"state_code": "01",
+			"code": "0104",
+			"default_name": "Feke"
+		},
+		{
+			"country_id": 233,
+			"state_code": "01",
+			"code": "0105",
+			"default_name": "İmamoğlu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "01",
+			"code": "0106",
+			"default_name": "Karaisalı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "01",
+			"code": "0107",
+			"default_name": "Karataş"
+		},
+		{
+			"country_id": 233,
+			"state_code": "01",
+			"code": "0108",
+			"default_name": "Kozan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "01",
+			"code": "0109",
+			"default_name": "Pozantı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "01",
+			"code": "0110",
+			"default_name": "Saimbeyli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "01",
+			"code": "0111",
+			"default_name": "Sarıçam"
+		},
+		{
+			"country_id": 233,
+			"state_code": "01",
+			"code": "0112",
+			"default_name": "Seyhan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "01",
+			"code": "0113",
+			"default_name": "Tufanbeyli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "01",
+			"code": "0114",
+			"default_name": "Yumurtalık"
+		},
+		{
+			"country_id": 233,
+			"state_code": "01",
+			"code": "0115",
+			"default_name": "Yüreğir"
+		}
+	],
+	"02": [
+		{
+			"country_id": 233,
+			"state_code": "02",
+			"code": "0201",
+			"default_name": "Besni"
+		},
+		{
+			"country_id": 233,
+			"state_code": "02",
+			"code": "0202",
+			"default_name": "Çelikhan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "02",
+			"code": "0203",
+			"default_name": "Gerger"
+		},
+		{
+			"country_id": 233,
+			"state_code": "02",
+			"code": "0204",
+			"default_name": "Gölbaşı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "02",
+			"code": "0205",
+			"default_name": "Kahta"
+		},
+		{
+			"country_id": 233,
+			"state_code": "02",
+			"code": "0206",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "02",
+			"code": "0207",
+			"default_name": "Samsat"
+		},
+		{
+			"country_id": 233,
+			"state_code": "02",
+			"code": "0208",
+			"default_name": "Sincik"
+		},
+		{
+			"country_id": 233,
+			"state_code": "02",
+			"code": "0209",
+			"default_name": "Tut"
+		}
+	],
+	"03": [
+		{
+			"country_id": 233,
+			"state_code": "03",
+			"code": "0301",
+			"default_name": "Başmakçı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "03",
+			"code": "0302",
+			"default_name": "Bayat"
+		},
+		{
+			"country_id": 233,
+			"state_code": "03",
+			"code": "0303",
+			"default_name": "Bolvadin"
+		},
+		{
+			"country_id": 233,
+			"state_code": "03",
+			"code": "0304",
+			"default_name": "Çay"
+		},
+		{
+			"country_id": 233,
+			"state_code": "03",
+			"code": "0305",
+			"default_name": "Çobanlar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "03",
+			"code": "0306",
+			"default_name": "Dazkırı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "03",
+			"code": "0307",
+			"default_name": "Dinar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "03",
+			"code": "0308",
+			"default_name": "Emirdağ"
+		},
+		{
+			"country_id": 233,
+			"state_code": "03",
+			"code": "0309",
+			"default_name": "Evciler"
+		},
+		{
+			"country_id": 233,
+			"state_code": "03",
+			"code": "0310",
+			"default_name": "Hocalar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "03",
+			"code": "0311",
+			"default_name": "İhsaniye"
+		},
+		{
+			"country_id": 233,
+			"state_code": "03",
+			"code": "0312",
+			"default_name": "İscehisar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "03",
+			"code": "0313",
+			"default_name": "Kızılören"
+		},
+		{
+			"country_id": 233,
+			"state_code": "03",
+			"code": "0314",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "03",
+			"code": "0315",
+			"default_name": "Sandıklı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "03",
+			"code": "0316",
+			"default_name": "Sinanpaşa"
+		},
+		{
+			"country_id": 233,
+			"state_code": "03",
+			"code": "0317",
+			"default_name": "Sultandağı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "03",
+			"code": "0318",
+			"default_name": "Şuhut"
+		}
+	],
+	"04": [
+		{
+			"country_id": 233,
+			"state_code": "04",
+			"code": "0401",
+			"default_name": "Diyadin"
+		},
+		{
+			"country_id": 233,
+			"state_code": "04",
+			"code": "0402",
+			"default_name": "Doğubayazıt"
+		},
+		{
+			"country_id": 233,
+			"state_code": "04",
+			"code": "0403",
+			"default_name": "Eleşkirt"
+		},
+		{
+			"country_id": 233,
+			"state_code": "04",
+			"code": "0404",
+			"default_name": "Hamur"
+		},
+		{
+			"country_id": 233,
+			"state_code": "04",
+			"code": "0405",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "04",
+			"code": "0406",
+			"default_name": "Patnos"
+		},
+		{
+			"country_id": 233,
+			"state_code": "04",
+			"code": "0407",
+			"default_name": "Taşlıçay"
+		},
+		{
+			"country_id": 233,
+			"state_code": "04",
+			"code": "0408",
+			"default_name": "Tutak"
+		}
+	],
+	"05": [
+		{
+			"country_id": 233,
+			"state_code": "05",
+			"code": "0501",
+			"default_name": "Göynücek"
+		},
+		{
+			"country_id": 233,
+			"state_code": "05",
+			"code": "0502",
+			"default_name": "Gümüşhacıköy"
+		},
+		{
+			"country_id": 233,
+			"state_code": "05",
+			"code": "0503",
+			"default_name": "Hamamözü"
+		},
+		{
+			"country_id": 233,
+			"state_code": "05",
+			"code": "0504",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "05",
+			"code": "0505",
+			"default_name": "Merzifon"
+		},
+		{
+			"country_id": 233,
+			"state_code": "05",
+			"code": "0506",
+			"default_name": "Suluova"
+		},
+		{
+			"country_id": 233,
+			"state_code": "05",
+			"code": "0507",
+			"default_name": "Taşova"
+		}
+	],
+	"07": [
+		{
+			"country_id": 233,
+			"state_code": "07",
+			"code": "0701",
+			"default_name": "Akseki"
+		},
+		{
+			"country_id": 233,
+			"state_code": "07",
+			"code": "0702",
+			"default_name": "Aksu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "07",
+			"code": "0703",
+			"default_name": "Alanya"
+		},
+		{
+			"country_id": 233,
+			"state_code": "07",
+			"code": "0704",
+			"default_name": "Demre"
+		},
+		{
+			"country_id": 233,
+			"state_code": "07",
+			"code": "0705",
+			"default_name": "Döşemealtı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "07",
+			"code": "0706",
+			"default_name": "Elmalı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "07",
+			"code": "0707",
+			"default_name": "Finike"
+		},
+		{
+			"country_id": 233,
+			"state_code": "07",
+			"code": "0708",
+			"default_name": "Gazipaşa"
+		},
+		{
+			"country_id": 233,
+			"state_code": "07",
+			"code": "0709",
+			"default_name": "Gündoğmuş"
+		},
+		{
+			"country_id": 233,
+			"state_code": "07",
+			"code": "0710",
+			"default_name": "İbradı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "07",
+			"code": "0711",
+			"default_name": "Kaş"
+		},
+		{
+			"country_id": 233,
+			"state_code": "07",
+			"code": "0712",
+			"default_name": "Kemer"
+		},
+		{
+			"country_id": 233,
+			"state_code": "07",
+			"code": "0713",
+			"default_name": "Kepez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "07",
+			"code": "0714",
+			"default_name": "Konyaaltı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "07",
+			"code": "0715",
+			"default_name": "Korkuteli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "07",
+			"code": "0716",
+			"default_name": "Kumluca"
+		},
+		{
+			"country_id": 233,
+			"state_code": "07",
+			"code": "0717",
+			"default_name": "Manavgat"
+		},
+		{
+			"country_id": 233,
+			"state_code": "07",
+			"code": "0718",
+			"default_name": "Muratpaşa"
+		},
+		{
+			"country_id": 233,
+			"state_code": "07",
+			"code": "0719",
+			"default_name": "Serik"
+		}
+	],
+	"09": [
+		{
+			"country_id": 233,
+			"state_code": "09",
+			"code": "0901",
+			"default_name": "Bozdoğan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "09",
+			"code": "0902",
+			"default_name": "Buharkent"
+		},
+		{
+			"country_id": 233,
+			"state_code": "09",
+			"code": "0903",
+			"default_name": "Çine"
+		},
+		{
+			"country_id": 233,
+			"state_code": "09",
+			"code": "0904",
+			"default_name": "Didim"
+		},
+		{
+			"country_id": 233,
+			"state_code": "09",
+			"code": "0905",
+			"default_name": "Germencik"
+		},
+		{
+			"country_id": 233,
+			"state_code": "09",
+			"code": "0906",
+			"default_name": "İncirliova"
+		},
+		{
+			"country_id": 233,
+			"state_code": "09",
+			"code": "0907",
+			"default_name": "Karacasu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "09",
+			"code": "0908",
+			"default_name": "Karpuzlu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "09",
+			"code": "0909",
+			"default_name": "Koçarlı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "09",
+			"code": "0910",
+			"default_name": "Köşk"
+		},
+		{
+			"country_id": 233,
+			"state_code": "09",
+			"code": "0911",
+			"default_name": "Kuşadası"
+		},
+		{
+			"country_id": 233,
+			"state_code": "09",
+			"code": "0912",
+			"default_name": "Kuyucak"
+		},
+		{
+			"country_id": 233,
+			"state_code": "09",
+			"code": "0913",
+			"default_name": "Nazilli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "09",
+			"code": "0914",
+			"default_name": "Söke"
+		},
+		{
+			"country_id": 233,
+			"state_code": "09",
+			"code": "0915",
+			"default_name": "Sultanhisar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "09",
+			"code": "0916",
+			"default_name": "Yenipazar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "09",
+			"code": "0917",
+			"default_name": "Efeler"
+		}
+	],
+	"10": [
+		{
+			"country_id": 233,
+			"state_code": "10",
+			"code": "1001",
+			"default_name": "Altıeylül"
+		},
+		{
+			"country_id": 233,
+			"state_code": "10",
+			"code": "1002",
+			"default_name": "Ayvalık"
+		},
+		{
+			"country_id": 233,
+			"state_code": "10",
+			"code": "1003",
+			"default_name": "Balya"
+		},
+		{
+			"country_id": 233,
+			"state_code": "10",
+			"code": "1004",
+			"default_name": "Bandırma"
+		},
+		{
+			"country_id": 233,
+			"state_code": "10",
+			"code": "1005",
+			"default_name": "Bigadiç"
+		},
+		{
+			"country_id": 233,
+			"state_code": "10",
+			"code": "1006",
+			"default_name": "Burhaniye"
+		},
+		{
+			"country_id": 233,
+			"state_code": "10",
+			"code": "1007",
+			"default_name": "Dursunbey"
+		},
+		{
+			"country_id": 233,
+			"state_code": "10",
+			"code": "1008",
+			"default_name": "Edremit"
+		},
+		{
+			"country_id": 233,
+			"state_code": "10",
+			"code": "1009",
+			"default_name": "Erdek"
+		},
+		{
+			"country_id": 233,
+			"state_code": "10",
+			"code": "1010",
+			"default_name": "Gömeç"
+		},
+		{
+			"country_id": 233,
+			"state_code": "10",
+			"code": "1011",
+			"default_name": "Gönen"
+		},
+		{
+			"country_id": 233,
+			"state_code": "10",
+			"code": "1012",
+			"default_name": "Havran"
+		},
+		{
+			"country_id": 233,
+			"state_code": "10",
+			"code": "1013",
+			"default_name": "İvrindi"
+		},
+		{
+			"country_id": 233,
+			"state_code": "10",
+			"code": "1014",
+			"default_name": "Karesi"
+		},
+		{
+			"country_id": 233,
+			"state_code": "10",
+			"code": "1015",
+			"default_name": "Kepsut"
+		},
+		{
+			"country_id": 233,
+			"state_code": "10",
+			"code": "1016",
+			"default_name": "Manyas"
+		},
+		{
+			"country_id": 233,
+			"state_code": "10",
+			"code": "1017",
+			"default_name": "Marmara"
+		},
+		{
+			"country_id": 233,
+			"state_code": "10",
+			"code": "1018",
+			"default_name": "Savaştepe"
+		},
+		{
+			"country_id": 233,
+			"state_code": "10",
+			"code": "1019",
+			"default_name": "Sındırgı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "10",
+			"code": "1020",
+			"default_name": "Susurluk"
+		}
+	],
+	"11": [
+		{
+			"country_id": 233,
+			"state_code": "11",
+			"code": "1101",
+			"default_name": "Bozüyük"
+		},
+		{
+			"country_id": 233,
+			"state_code": "11",
+			"code": "1102",
+			"default_name": "Gölpazarı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "11",
+			"code": "1103",
+			"default_name": "İnhisar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "11",
+			"code": "1104",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "11",
+			"code": "1105",
+			"default_name": "Osmaneli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "11",
+			"code": "1106",
+			"default_name": "Söğüt"
+		},
+		{
+			"country_id": 233,
+			"state_code": "11",
+			"code": "1107",
+			"default_name": "Yenipazar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "11",
+			"code": "1108",
+			"default_name": "Pazaryeri"
+		}
+	],
+	"12": [
+		{
+			"country_id": 233,
+			"state_code": "12",
+			"code": "1201",
+			"default_name": "Adaklı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "12",
+			"code": "1202",
+			"default_name": "Genç"
+		},
+		{
+			"country_id": 233,
+			"state_code": "12",
+			"code": "1203",
+			"default_name": "Karlıova"
+		},
+		{
+			"country_id": 233,
+			"state_code": "12",
+			"code": "1204",
+			"default_name": "Kiğı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "12",
+			"code": "1205",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "12",
+			"code": "1206",
+			"default_name": "Solhan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "12",
+			"code": "1207",
+			"default_name": "Yayladere"
+		},
+		{
+			"country_id": 233,
+			"state_code": "12",
+			"code": "1208",
+			"default_name": "Yedisu"
+		}
+	],
+	"13": [
+		{
+			"country_id": 233,
+			"state_code": "13",
+			"code": "1301",
+			"default_name": "Adilcevaz"
+		},
+		{
+			"country_id": 233,
+			"state_code": "13",
+			"code": "1302",
+			"default_name": "Ahlat"
+		},
+		{
+			"country_id": 233,
+			"state_code": "13",
+			"code": "1303",
+			"default_name": "Güroymak"
+		},
+		{
+			"country_id": 233,
+			"state_code": "13",
+			"code": "1304",
+			"default_name": "Hizan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "13",
+			"code": "1305",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "13",
+			"code": "1306",
+			"default_name": "Mutki"
+		},
+		{
+			"country_id": 233,
+			"state_code": "13",
+			"code": "1307",
+			"default_name": "Tatvan"
+		}
+	],
+	"14": [
+		{
+			"country_id": 233,
+			"state_code": "14",
+			"code": "1401",
+			"default_name": "Dörtdivan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "14",
+			"code": "1402",
+			"default_name": "Gerede"
+		},
+		{
+			"country_id": 233,
+			"state_code": "14",
+			"code": "1403",
+			"default_name": "Göynük"
+		},
+		{
+			"country_id": 233,
+			"state_code": "14",
+			"code": "1404",
+			"default_name": "Kıbrıscık"
+		},
+		{
+			"country_id": 233,
+			"state_code": "14",
+			"code": "1405",
+			"default_name": "Mengen"
+		},
+		{
+			"country_id": 233,
+			"state_code": "14",
+			"code": "1406",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "14",
+			"code": "1407",
+			"default_name": "Mudurnu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "14",
+			"code": "1408",
+			"default_name": "Seben"
+		},
+		{
+			"country_id": 233,
+			"state_code": "14",
+			"code": "1409",
+			"default_name": "Yeniçağa"
+		}
+	],
+	"06": [
+		{
+			"country_id": 233,
+			"state_code": "06",
+			"code": "0601",
+			"default_name": "Altındağ"
+		},
+		{
+			"country_id": 233,
+			"state_code": "06",
+			"code": "0602",
+			"default_name": "Ayaş"
+		},
+		{
+			"country_id": 233,
+			"state_code": "06",
+			"code": "0603",
+			"default_name": "Bala"
+		},
+		{
+			"country_id": 233,
+			"state_code": "06",
+			"code": "0604",
+			"default_name": "Beypazarı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "06",
+			"code": "0605",
+			"default_name": "Çamlıdere"
+		},
+		{
+			"country_id": 233,
+			"state_code": "06",
+			"code": "0606",
+			"default_name": "Çankaya"
+		},
+		{
+			"country_id": 233,
+			"state_code": "06",
+			"code": "0607",
+			"default_name": "Çubuk"
+		},
+		{
+			"country_id": 233,
+			"state_code": "06",
+			"code": "0608",
+			"default_name": "Elmadağ"
+		},
+		{
+			"country_id": 233,
+			"state_code": "06",
+			"code": "0609",
+			"default_name": "Güdül"
+		},
+		{
+			"country_id": 233,
+			"state_code": "06",
+			"code": "0610",
+			"default_name": "Haymana"
+		},
+		{
+			"country_id": 233,
+			"state_code": "06",
+			"code": "0611",
+			"default_name": "Kalecik"
+		},
+		{
+			"country_id": 233,
+			"state_code": "06",
+			"code": "0612",
+			"default_name": "Kızılcahamam"
+		},
+		{
+			"country_id": 233,
+			"state_code": "06",
+			"code": "0613",
+			"default_name": "Nallıhan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "06",
+			"code": "0614",
+			"default_name": "Polatlı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "06",
+			"code": "0615",
+			"default_name": "Şereflikoçhisar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "06",
+			"code": "0616",
+			"default_name": "Yenimahalle"
+		},
+		{
+			"country_id": 233,
+			"state_code": "06",
+			"code": "0617",
+			"default_name": "Gölbaşı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "06",
+			"code": "0618",
+			"default_name": "Keçiören"
+		},
+		{
+			"country_id": 233,
+			"state_code": "06",
+			"code": "0619",
+			"default_name": "Mamak"
+		},
+		{
+			"country_id": 233,
+			"state_code": "06",
+			"code": "0620",
+			"default_name": "Sincan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "06",
+			"code": "0621",
+			"default_name": "Kahramankazan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "06",
+			"code": "0622",
+			"default_name": "Akyurt"
+		},
+		{
+			"country_id": 233,
+			"state_code": "06",
+			"code": "0623",
+			"default_name": "Etimesgut"
+		},
+		{
+			"country_id": 233,
+			"state_code": "06",
+			"code": "0624",
+			"default_name": "Evren"
+		},
+		{
+			"country_id": 233,
+			"state_code": "06",
+			"code": "0625",
+			"default_name": "Pursaklar"
+		}
+	],
+	"08": [
+		{
+			"country_id": 233,
+			"state_code": "08",
+			"code": "0801",
+			"default_name": "Ardanuç"
+		},
+		{
+			"country_id": 233,
+			"state_code": "08",
+			"code": "0802",
+			"default_name": "Arhavi"
+		},
+		{
+			"country_id": 233,
+			"state_code": "08",
+			"code": "0803",
+			"default_name": "Borçka"
+		},
+		{
+			"country_id": 233,
+			"state_code": "08",
+			"code": "0804",
+			"default_name": "Hopa"
+		},
+		{
+			"country_id": 233,
+			"state_code": "08",
+			"code": "0805",
+			"default_name": "Murgul"
+		},
+		{
+			"country_id": 233,
+			"state_code": "08",
+			"code": "0806",
+			"default_name": "Şavşat"
+		},
+		{
+			"country_id": 233,
+			"state_code": "08",
+			"code": "0807",
+			"default_name": "Yusufeli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "08",
+			"code": "0808",
+			"default_name": "Kemalpaşa"
+		},
+		{
+			"country_id": 233,
+			"state_code": "08",
+			"code": "0809",
+			"default_name": "Merkez"
+		}
+	],
+	"15": [
+		{
+			"country_id": 233,
+			"state_code": "15",
+			"code": "1501",
+			"default_name": "Ağlasun"
+		},
+		{
+			"country_id": 233,
+			"state_code": "15",
+			"code": "1502",
+			"default_name": "Altınyayla"
+		},
+		{
+			"country_id": 233,
+			"state_code": "15",
+			"code": "1503",
+			"default_name": "Bucak"
+		},
+		{
+			"country_id": 233,
+			"state_code": "15",
+			"code": "1504",
+			"default_name": "Çavdır"
+		},
+		{
+			"country_id": 233,
+			"state_code": "15",
+			"code": "1505",
+			"default_name": "Çeltikçi"
+		},
+		{
+			"country_id": 233,
+			"state_code": "15",
+			"code": "1506",
+			"default_name": "Gölhisar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "15",
+			"code": "1507",
+			"default_name": "Karamanlı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "15",
+			"code": "1508",
+			"default_name": "Kemer"
+		},
+		{
+			"country_id": 233,
+			"state_code": "15",
+			"code": "1509",
+			"default_name": "Tefenni"
+		},
+		{
+			"country_id": 233,
+			"state_code": "15",
+			"code": "1510",
+			"default_name": "Yeşilova"
+		},
+		{
+			"country_id": 233,
+			"state_code": "15",
+			"code": "1511",
+			"default_name": "Merkez"
+		}
+	],
+	"16": [
+		{
+			"country_id": 233,
+			"state_code": "16",
+			"code": "1601",
+			"default_name": "Büyükorhan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "16",
+			"code": "1602",
+			"default_name": "Gemlik"
+		},
+		{
+			"country_id": 233,
+			"state_code": "16",
+			"code": "1603",
+			"default_name": "Gürsu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "16",
+			"code": "1604",
+			"default_name": "Harmancık"
+		},
+		{
+			"country_id": 233,
+			"state_code": "16",
+			"code": "1605",
+			"default_name": "İnegöl"
+		},
+		{
+			"country_id": 233,
+			"state_code": "16",
+			"code": "1606",
+			"default_name": "İznik"
+		},
+		{
+			"country_id": 233,
+			"state_code": "16",
+			"code": "1607",
+			"default_name": "Karacabey"
+		},
+		{
+			"country_id": 233,
+			"state_code": "16",
+			"code": "1608",
+			"default_name": "Keles"
+		},
+		{
+			"country_id": 233,
+			"state_code": "16",
+			"code": "1609",
+			"default_name": "Kestel"
+		},
+		{
+			"country_id": 233,
+			"state_code": "16",
+			"code": "1610",
+			"default_name": "Mudanya"
+		},
+		{
+			"country_id": 233,
+			"state_code": "16",
+			"code": "1611",
+			"default_name": "Mustafakemalpaşa"
+		},
+		{
+			"country_id": 233,
+			"state_code": "16",
+			"code": "1612",
+			"default_name": "Nilüfer"
+		},
+		{
+			"country_id": 233,
+			"state_code": "16",
+			"code": "1613",
+			"default_name": "Orhaneli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "16",
+			"code": "1614",
+			"default_name": "Orhangazi"
+		},
+		{
+			"country_id": 233,
+			"state_code": "16",
+			"code": "1615",
+			"default_name": "Osmangazi"
+		},
+		{
+			"country_id": 233,
+			"state_code": "16",
+			"code": "1616",
+			"default_name": "Yenişehir"
+		},
+		{
+			"country_id": 233,
+			"state_code": "16",
+			"code": "1617",
+			"default_name": "Yıldırım"
+		}
+	],
+	"17": [
+		{
+			"country_id": 233,
+			"state_code": "17",
+			"code": "1701",
+			"default_name": "Ayvacık"
+		},
+		{
+			"country_id": 233,
+			"state_code": "17",
+			"code": "1702",
+			"default_name": "Bayramiç"
+		},
+		{
+			"country_id": 233,
+			"state_code": "17",
+			"code": "1703",
+			"default_name": "Biga"
+		},
+		{
+			"country_id": 233,
+			"state_code": "17",
+			"code": "1704",
+			"default_name": "Bozcaada"
+		},
+		{
+			"country_id": 233,
+			"state_code": "17",
+			"code": "1705",
+			"default_name": "Çan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "17",
+			"code": "1706",
+			"default_name": "Eceabat"
+		},
+		{
+			"country_id": 233,
+			"state_code": "17",
+			"code": "1707",
+			"default_name": "Ezine"
+		},
+		{
+			"country_id": 233,
+			"state_code": "17",
+			"code": "1708",
+			"default_name": "Gelibolu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "17",
+			"code": "1709",
+			"default_name": "Gökçeada"
+		},
+		{
+			"country_id": 233,
+			"state_code": "17",
+			"code": "1710",
+			"default_name": "Lapseki"
+		},
+		{
+			"country_id": 233,
+			"state_code": "17",
+			"code": "1711",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "17",
+			"code": "1712",
+			"default_name": "Yenice"
+		}
+	],
+	"18": [
+		{
+			"country_id": 233,
+			"state_code": "18",
+			"code": "1801",
+			"default_name": "Atkaracalar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "18",
+			"code": "1802",
+			"default_name": "Bayramören"
+		},
+		{
+			"country_id": 233,
+			"state_code": "18",
+			"code": "1803",
+			"default_name": "Çerkeş"
+		},
+		{
+			"country_id": 233,
+			"state_code": "18",
+			"code": "1804",
+			"default_name": "Eldivan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "18",
+			"code": "1805",
+			"default_name": "Ilgaz"
+		},
+		{
+			"country_id": 233,
+			"state_code": "18",
+			"code": "1806",
+			"default_name": "Kızılırmak"
+		},
+		{
+			"country_id": 233,
+			"state_code": "18",
+			"code": "1807",
+			"default_name": "Korgun"
+		},
+		{
+			"country_id": 233,
+			"state_code": "18",
+			"code": "1808",
+			"default_name": "Kurşunlu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "18",
+			"code": "1809",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "18",
+			"code": "1810",
+			"default_name": "Orta"
+		},
+		{
+			"country_id": 233,
+			"state_code": "18",
+			"code": "1811",
+			"default_name": "Şabanözü"
+		},
+		{
+			"country_id": 233,
+			"state_code": "18",
+			"code": "1812",
+			"default_name": "Yapraklı"
+		}
+	],
+	"19": [
+		{
+			"country_id": 233,
+			"state_code": "19",
+			"code": "1901",
+			"default_name": "Alaca"
+		},
+		{
+			"country_id": 233,
+			"state_code": "19",
+			"code": "1902",
+			"default_name": "Bayat"
+		},
+		{
+			"country_id": 233,
+			"state_code": "19",
+			"code": "1903",
+			"default_name": "Boğazkale"
+		},
+		{
+			"country_id": 233,
+			"state_code": "19",
+			"code": "1904",
+			"default_name": "Dodurga"
+		},
+		{
+			"country_id": 233,
+			"state_code": "19",
+			"code": "1905",
+			"default_name": "İskilip"
+		},
+		{
+			"country_id": 233,
+			"state_code": "19",
+			"code": "1906",
+			"default_name": "Kargı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "19",
+			"code": "1907",
+			"default_name": "Laçin"
+		},
+		{
+			"country_id": 233,
+			"state_code": "19",
+			"code": "1908",
+			"default_name": "Mecitözü"
+		},
+		{
+			"country_id": 233,
+			"state_code": "19",
+			"code": "1909",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "19",
+			"code": "1910",
+			"default_name": "Oğuzlar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "19",
+			"code": "1911",
+			"default_name": "Ortaköy"
+		},
+		{
+			"country_id": 233,
+			"state_code": "19",
+			"code": "1912",
+			"default_name": "Osmancık"
+		},
+		{
+			"country_id": 233,
+			"state_code": "19",
+			"code": "1913",
+			"default_name": "Sungurlu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "19",
+			"code": "1914",
+			"default_name": "Uğurludağ"
+		}
+	],
+	"20": [
+		{
+			"country_id": 233,
+			"state_code": "20",
+			"code": "2001",
+			"default_name": "Acıpayam"
+		},
+		{
+			"country_id": 233,
+			"state_code": "20",
+			"code": "2002",
+			"default_name": "Babadağ"
+		},
+		{
+			"country_id": 233,
+			"state_code": "20",
+			"code": "2003",
+			"default_name": "Baklan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "20",
+			"code": "2004",
+			"default_name": "Bekilli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "20",
+			"code": "2005",
+			"default_name": "Beyağaç"
+		},
+		{
+			"country_id": 233,
+			"state_code": "20",
+			"code": "2006",
+			"default_name": "Bozkurt"
+		},
+		{
+			"country_id": 233,
+			"state_code": "20",
+			"code": "2007",
+			"default_name": "Buldan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "20",
+			"code": "2008",
+			"default_name": "Çal"
+		},
+		{
+			"country_id": 233,
+			"state_code": "20",
+			"code": "2009",
+			"default_name": "Çameli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "20",
+			"code": "2010",
+			"default_name": "Çardak"
+		},
+		{
+			"country_id": 233,
+			"state_code": "20",
+			"code": "2011",
+			"default_name": "Çivril"
+		},
+		{
+			"country_id": 233,
+			"state_code": "20",
+			"code": "2012",
+			"default_name": "Güney"
+		},
+		{
+			"country_id": 233,
+			"state_code": "20",
+			"code": "2013",
+			"default_name": "Honaz"
+		},
+		{
+			"country_id": 233,
+			"state_code": "20",
+			"code": "2014",
+			"default_name": "Kale"
+		},
+		{
+			"country_id": 233,
+			"state_code": "20",
+			"code": "2015",
+			"default_name": "Merkezefendi"
+		},
+		{
+			"country_id": 233,
+			"state_code": "20",
+			"code": "2016",
+			"default_name": "Pamukkale"
+		},
+		{
+			"country_id": 233,
+			"state_code": "20",
+			"code": "2017",
+			"default_name": "Sarayköy"
+		},
+		{
+			"country_id": 233,
+			"state_code": "20",
+			"code": "2018",
+			"default_name": "Serinhisar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "20",
+			"code": "2019",
+			"default_name": "Tavas"
+		}
+	],
+	"21": [
+		{
+			"country_id": 233,
+			"state_code": "21",
+			"code": "2101",
+			"default_name": "Bağlar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "21",
+			"code": "2102",
+			"default_name": "Bismil"
+		},
+		{
+			"country_id": 233,
+			"state_code": "21",
+			"code": "2103",
+			"default_name": "Çermik"
+		},
+		{
+			"country_id": 233,
+			"state_code": "21",
+			"code": "2104",
+			"default_name": "Çınar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "21",
+			"code": "2105",
+			"default_name": "Çüngüş"
+		},
+		{
+			"country_id": 233,
+			"state_code": "21",
+			"code": "2106",
+			"default_name": "Dicle"
+		},
+		{
+			"country_id": 233,
+			"state_code": "21",
+			"code": "2107",
+			"default_name": "Eğil"
+		},
+		{
+			"country_id": 233,
+			"state_code": "21",
+			"code": "2108",
+			"default_name": "Ergani"
+		},
+		{
+			"country_id": 233,
+			"state_code": "21",
+			"code": "2109",
+			"default_name": "Hani"
+		},
+		{
+			"country_id": 233,
+			"state_code": "21",
+			"code": "2110",
+			"default_name": "Hazro"
+		},
+		{
+			"country_id": 233,
+			"state_code": "21",
+			"code": "2111",
+			"default_name": "Kayapınar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "21",
+			"code": "2112",
+			"default_name": "Kocaköy"
+		},
+		{
+			"country_id": 233,
+			"state_code": "21",
+			"code": "2113",
+			"default_name": "Kulp"
+		},
+		{
+			"country_id": 233,
+			"state_code": "21",
+			"code": "2114",
+			"default_name": "Lice"
+		},
+		{
+			"country_id": 233,
+			"state_code": "21",
+			"code": "2115",
+			"default_name": "Silvan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "21",
+			"code": "2116",
+			"default_name": "Sur"
+		},
+		{
+			"country_id": 233,
+			"state_code": "21",
+			"code": "2117",
+			"default_name": "Yenişehir"
+		}
+	],
+	"22": [
+		{
+			"country_id": 233,
+			"state_code": "22",
+			"code": "2201",
+			"default_name": "Enez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "22",
+			"code": "2202",
+			"default_name": "Havsa"
+		},
+		{
+			"country_id": 233,
+			"state_code": "22",
+			"code": "2203",
+			"default_name": "İpsala"
+		},
+		{
+			"country_id": 233,
+			"state_code": "22",
+			"code": "2204",
+			"default_name": "Keşan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "22",
+			"code": "2205",
+			"default_name": "Lalapaşa"
+		},
+		{
+			"country_id": 233,
+			"state_code": "22",
+			"code": "2206",
+			"default_name": "Meriç"
+		},
+		{
+			"country_id": 233,
+			"state_code": "22",
+			"code": "2207",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "22",
+			"code": "2208",
+			"default_name": "Süloğlu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "22",
+			"code": "2209",
+			"default_name": "Uzunköprü"
+		}
+	],
+	"23": [
+		{
+			"country_id": 233,
+			"state_code": "23",
+			"code": "2301",
+			"default_name": "Ağın"
+		},
+		{
+			"country_id": 233,
+			"state_code": "23",
+			"code": "2302",
+			"default_name": "Alacakaya"
+		},
+		{
+			"country_id": 233,
+			"state_code": "23",
+			"code": "2303",
+			"default_name": "Arıcak"
+		},
+		{
+			"country_id": 233,
+			"state_code": "23",
+			"code": "2304",
+			"default_name": "Baskil"
+		},
+		{
+			"country_id": 233,
+			"state_code": "23",
+			"code": "2305",
+			"default_name": "Karakoçan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "23",
+			"code": "2306",
+			"default_name": "Keban"
+		},
+		{
+			"country_id": 233,
+			"state_code": "23",
+			"code": "2307",
+			"default_name": "Kovancılar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "23",
+			"code": "2308",
+			"default_name": "Maden"
+		},
+		{
+			"country_id": 233,
+			"state_code": "23",
+			"code": "2309",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "23",
+			"code": "2310",
+			"default_name": "Palu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "23",
+			"code": "2311",
+			"default_name": "Sivrice"
+		}
+	],
+	"24": [
+		{
+			"country_id": 233,
+			"state_code": "24",
+			"code": "2401",
+			"default_name": "Çayırlı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "24",
+			"code": "2402",
+			"default_name": "İliç"
+		},
+		{
+			"country_id": 233,
+			"state_code": "24",
+			"code": "2403",
+			"default_name": "Kemah"
+		},
+		{
+			"country_id": 233,
+			"state_code": "24",
+			"code": "2404",
+			"default_name": "Kemaliye"
+		},
+		{
+			"country_id": 233,
+			"state_code": "24",
+			"code": "2405",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "24",
+			"code": "2406",
+			"default_name": "Otlukbeli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "24",
+			"code": "2407",
+			"default_name": "Refahiye"
+		},
+		{
+			"country_id": 233,
+			"state_code": "24",
+			"code": "2408",
+			"default_name": "Tercan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "24",
+			"code": "2409",
+			"default_name": "Üzümlü"
+		}
+	],
+	"25": [
+		{
+			"country_id": 233,
+			"state_code": "25",
+			"code": "2501",
+			"default_name": "Aşkale"
+		},
+		{
+			"country_id": 233,
+			"state_code": "25",
+			"code": "2502",
+			"default_name": "Aziziye"
+		},
+		{
+			"country_id": 233,
+			"state_code": "25",
+			"code": "2503",
+			"default_name": "Çat"
+		},
+		{
+			"country_id": 233,
+			"state_code": "25",
+			"code": "2504",
+			"default_name": "Hınıs"
+		},
+		{
+			"country_id": 233,
+			"state_code": "25",
+			"code": "2505",
+			"default_name": "Horasan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "25",
+			"code": "2506",
+			"default_name": "İspir"
+		},
+		{
+			"country_id": 233,
+			"state_code": "25",
+			"code": "2507",
+			"default_name": "Karaçoban"
+		},
+		{
+			"country_id": 233,
+			"state_code": "25",
+			"code": "2508",
+			"default_name": "Karayazı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "25",
+			"code": "2509",
+			"default_name": "Köprüköy"
+		},
+		{
+			"country_id": 233,
+			"state_code": "25",
+			"code": "2510",
+			"default_name": "Narman"
+		},
+		{
+			"country_id": 233,
+			"state_code": "25",
+			"code": "2511",
+			"default_name": "Oltu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "25",
+			"code": "2512",
+			"default_name": "Olur"
+		},
+		{
+			"country_id": 233,
+			"state_code": "25",
+			"code": "2513",
+			"default_name": "Palandöken"
+		},
+		{
+			"country_id": 233,
+			"state_code": "25",
+			"code": "2514",
+			"default_name": "Pasinler"
+		},
+		{
+			"country_id": 233,
+			"state_code": "25",
+			"code": "2515",
+			"default_name": "Pazaryolu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "25",
+			"code": "2516",
+			"default_name": "Şenkaya"
+		},
+		{
+			"country_id": 233,
+			"state_code": "25",
+			"code": "2517",
+			"default_name": "Tekman"
+		},
+		{
+			"country_id": 233,
+			"state_code": "25",
+			"code": "2518",
+			"default_name": "Tortum"
+		},
+		{
+			"country_id": 233,
+			"state_code": "25",
+			"code": "2519",
+			"default_name": "Uzundere"
+		},
+		{
+			"country_id": 233,
+			"state_code": "25",
+			"code": "2520",
+			"default_name": "Yakutiye"
+		}
+	],
+	"26": [
+		{
+			"country_id": 233,
+			"state_code": "26",
+			"code": "2601",
+			"default_name": "Alpu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "26",
+			"code": "2602",
+			"default_name": "Beylikova"
+		},
+		{
+			"country_id": 233,
+			"state_code": "26",
+			"code": "2603",
+			"default_name": "Çifteler"
+		},
+		{
+			"country_id": 233,
+			"state_code": "26",
+			"code": "2604",
+			"default_name": "Günyüzü"
+		},
+		{
+			"country_id": 233,
+			"state_code": "26",
+			"code": "2605",
+			"default_name": "Han"
+		},
+		{
+			"country_id": 233,
+			"state_code": "26",
+			"code": "2606",
+			"default_name": "İnönü"
+		},
+		{
+			"country_id": 233,
+			"state_code": "26",
+			"code": "2607",
+			"default_name": "Mahmudiye"
+		},
+		{
+			"country_id": 233,
+			"state_code": "26",
+			"code": "2608",
+			"default_name": "Mihalgazi"
+		},
+		{
+			"country_id": 233,
+			"state_code": "26",
+			"code": "2609",
+			"default_name": "Mihalıççık"
+		},
+		{
+			"country_id": 233,
+			"state_code": "26",
+			"code": "2610",
+			"default_name": "Odunpazarı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "26",
+			"code": "2611",
+			"default_name": "Sarıcakaya"
+		},
+		{
+			"country_id": 233,
+			"state_code": "26",
+			"code": "2612",
+			"default_name": "Seyitgazi"
+		},
+		{
+			"country_id": 233,
+			"state_code": "26",
+			"code": "2613",
+			"default_name": "Sivrihisar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "26",
+			"code": "2614",
+			"default_name": "Tepebaşı"
+		}
+	],
+	"27": [
+		{
+			"country_id": 233,
+			"state_code": "27",
+			"code": "2701",
+			"default_name": "Araban"
+		},
+		{
+			"country_id": 233,
+			"state_code": "27",
+			"code": "2702",
+			"default_name": "İslahiye"
+		},
+		{
+			"country_id": 233,
+			"state_code": "27",
+			"code": "2703",
+			"default_name": "Karkamış"
+		},
+		{
+			"country_id": 233,
+			"state_code": "27",
+			"code": "2704",
+			"default_name": "Nizip"
+		},
+		{
+			"country_id": 233,
+			"state_code": "27",
+			"code": "2705",
+			"default_name": "Nurdağı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "27",
+			"code": "2706",
+			"default_name": "Oğuzeli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "27",
+			"code": "2707",
+			"default_name": "Şahinbey"
+		},
+		{
+			"country_id": 233,
+			"state_code": "27",
+			"code": "2708",
+			"default_name": "Şehitkamil"
+		},
+		{
+			"country_id": 233,
+			"state_code": "27",
+			"code": "2709",
+			"default_name": "Yavuzeli"
+		}
+	],
+	"28": [
+		{
+			"country_id": 233,
+			"state_code": "28",
+			"code": "2801",
+			"default_name": "Alucra"
+		},
+		{
+			"country_id": 233,
+			"state_code": "28",
+			"code": "2802",
+			"default_name": "Bulancak"
+		},
+		{
+			"country_id": 233,
+			"state_code": "28",
+			"code": "2803",
+			"default_name": "Çamoluk"
+		},
+		{
+			"country_id": 233,
+			"state_code": "28",
+			"code": "2804",
+			"default_name": "Çanakçı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "28",
+			"code": "2805",
+			"default_name": "Dereli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "28",
+			"code": "2806",
+			"default_name": "Doğankent"
+		},
+		{
+			"country_id": 233,
+			"state_code": "28",
+			"code": "2807",
+			"default_name": "Espiye"
+		},
+		{
+			"country_id": 233,
+			"state_code": "28",
+			"code": "2808",
+			"default_name": "Eynesil"
+		},
+		{
+			"country_id": 233,
+			"state_code": "28",
+			"code": "2809",
+			"default_name": "Görele"
+		},
+		{
+			"country_id": 233,
+			"state_code": "28",
+			"code": "2810",
+			"default_name": "Güce"
+		},
+		{
+			"country_id": 233,
+			"state_code": "28",
+			"code": "2811",
+			"default_name": "Keşap"
+		},
+		{
+			"country_id": 233,
+			"state_code": "28",
+			"code": "2812",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "28",
+			"code": "2813",
+			"default_name": "Piraziz"
+		},
+		{
+			"country_id": 233,
+			"state_code": "28",
+			"code": "2814",
+			"default_name": "Şebinkarahisar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "28",
+			"code": "2815",
+			"default_name": "Tirebolu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "28",
+			"code": "2816",
+			"default_name": "Yağlıdere"
+		}
+	],
+	"29": [
+		{
+			"country_id": 233,
+			"state_code": "29",
+			"code": "2901",
+			"default_name": "Kelkit"
+		},
+		{
+			"country_id": 233,
+			"state_code": "29",
+			"code": "2902",
+			"default_name": "Köse"
+		},
+		{
+			"country_id": 233,
+			"state_code": "29",
+			"code": "2903",
+			"default_name": "Kürtün"
+		},
+		{
+			"country_id": 233,
+			"state_code": "29",
+			"code": "2904",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "29",
+			"code": "2905",
+			"default_name": "Şiran"
+		},
+		{
+			"country_id": 233,
+			"state_code": "29",
+			"code": "2906",
+			"default_name": "Torul"
+		}
+	],
+	"30": [
+		{
+			"country_id": 233,
+			"state_code": "30",
+			"code": "3001",
+			"default_name": "Çukurca"
+		},
+		{
+			"country_id": 233,
+			"state_code": "30",
+			"code": "3002",
+			"default_name": "Derecik"
+		},
+		{
+			"country_id": 233,
+			"state_code": "30",
+			"code": "3003",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "30",
+			"code": "3004",
+			"default_name": "Şemdinli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "30",
+			"code": "3005",
+			"default_name": "Yüksekova"
+		}
+	],
+	"31": [
+		{
+			"country_id": 233,
+			"state_code": "31",
+			"code": "3101",
+			"default_name": "Altınözü"
+		},
+		{
+			"country_id": 233,
+			"state_code": "31",
+			"code": "3102",
+			"default_name": "Antakya"
+		},
+		{
+			"country_id": 233,
+			"state_code": "31",
+			"code": "3103",
+			"default_name": "Arsuz"
+		},
+		{
+			"country_id": 233,
+			"state_code": "31",
+			"code": "3104",
+			"default_name": "Belen"
+		},
+		{
+			"country_id": 233,
+			"state_code": "31",
+			"code": "3105",
+			"default_name": "Defne"
+		},
+		{
+			"country_id": 233,
+			"state_code": "31",
+			"code": "3106",
+			"default_name": "Dörtyol"
+		},
+		{
+			"country_id": 233,
+			"state_code": "31",
+			"code": "3107",
+			"default_name": "Erzin"
+		},
+		{
+			"country_id": 233,
+			"state_code": "31",
+			"code": "3108",
+			"default_name": "Hassa"
+		},
+		{
+			"country_id": 233,
+			"state_code": "31",
+			"code": "3109",
+			"default_name": "İskenderun"
+		},
+		{
+			"country_id": 233,
+			"state_code": "31",
+			"code": "3110",
+			"default_name": "Kırıkhan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "31",
+			"code": "3111",
+			"default_name": "Kumlu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "31",
+			"code": "3112",
+			"default_name": "Payas"
+		},
+		{
+			"country_id": 233,
+			"state_code": "31",
+			"code": "3113",
+			"default_name": "Reyhanlı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "31",
+			"code": "3114",
+			"default_name": "Samandağ"
+		},
+		{
+			"country_id": 233,
+			"state_code": "31",
+			"code": "3115",
+			"default_name": "Yayladağı"
+		}
+	],
+	"32": [
+		{
+			"country_id": 233,
+			"state_code": "32",
+			"code": "3201",
+			"default_name": "Aksu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "32",
+			"code": "3202",
+			"default_name": "Atabey"
+		},
+		{
+			"country_id": 233,
+			"state_code": "32",
+			"code": "3203",
+			"default_name": "Eğirdir"
+		},
+		{
+			"country_id": 233,
+			"state_code": "32",
+			"code": "3204",
+			"default_name": "Gelendost"
+		},
+		{
+			"country_id": 233,
+			"state_code": "32",
+			"code": "3205",
+			"default_name": "Gönen"
+		},
+		{
+			"country_id": 233,
+			"state_code": "32",
+			"code": "3206",
+			"default_name": "Keçiborlu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "32",
+			"code": "3207",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "32",
+			"code": "3208",
+			"default_name": "Senirkent"
+		},
+		{
+			"country_id": 233,
+			"state_code": "32",
+			"code": "3209",
+			"default_name": "Sütçüler"
+		},
+		{
+			"country_id": 233,
+			"state_code": "32",
+			"code": "3210",
+			"default_name": "Şarkikaraağaç"
+		},
+		{
+			"country_id": 233,
+			"state_code": "32",
+			"code": "3211",
+			"default_name": "Uluborlu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "32",
+			"code": "3212",
+			"default_name": "Yalvaç"
+		},
+		{
+			"country_id": 233,
+			"state_code": "32",
+			"code": "3213",
+			"default_name": "Yenişarbademli"
+		}
+	],
+	"33": [
+		{
+			"country_id": 233,
+			"state_code": "33",
+			"code": "3301",
+			"default_name": "Akdeniz"
+		},
+		{
+			"country_id": 233,
+			"state_code": "33",
+			"code": "3302",
+			"default_name": "Anamur"
+		},
+		{
+			"country_id": 233,
+			"state_code": "33",
+			"code": "3303",
+			"default_name": "Aydıncık"
+		},
+		{
+			"country_id": 233,
+			"state_code": "33",
+			"code": "3304",
+			"default_name": "Bozyazı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "33",
+			"code": "3305",
+			"default_name": "Çamlıyayla"
+		},
+		{
+			"country_id": 233,
+			"state_code": "33",
+			"code": "3306",
+			"default_name": "Erdemli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "33",
+			"code": "3307",
+			"default_name": "Gülnar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "33",
+			"code": "3308",
+			"default_name": "Mezitli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "33",
+			"code": "3309",
+			"default_name": "Mut"
+		},
+		{
+			"country_id": 233,
+			"state_code": "33",
+			"code": "3310",
+			"default_name": "Silifke"
+		},
+		{
+			"country_id": 233,
+			"state_code": "33",
+			"code": "3311",
+			"default_name": "Tarsus"
+		},
+		{
+			"country_id": 233,
+			"state_code": "33",
+			"code": "3312",
+			"default_name": "Toroslar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "33",
+			"code": "3313",
+			"default_name": "Yenişehir"
+		}
+	],
+	"34": [
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3401",
+			"default_name": "Adalar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3402",
+			"default_name": "Arnavutköy"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3403",
+			"default_name": "Ataşehir"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3404",
+			"default_name": "Avcılar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3405",
+			"default_name": "Bağcılar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3406",
+			"default_name": "Bahçelievler"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3407",
+			"default_name": "Bakırköy"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3408",
+			"default_name": "Başakşehir"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3409",
+			"default_name": "Bayrampaşa"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3410",
+			"default_name": "Beşiktaş"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3411",
+			"default_name": "Beykoz"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3412",
+			"default_name": "Beylikdüzü"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3413",
+			"default_name": "Beyoğlu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3414",
+			"default_name": "Büyükçekmece"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3415",
+			"default_name": "Çatalca"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3416",
+			"default_name": "Çekmeköy"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3417",
+			"default_name": "Esenler"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3418",
+			"default_name": "Esenyurt"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3419",
+			"default_name": "Eyüpsultan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3420",
+			"default_name": "Fatih"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3421",
+			"default_name": "Gaziosmanpaşa"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3422",
+			"default_name": "Güngören"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3423",
+			"default_name": "Kadıköy"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3424",
+			"default_name": "Kağıthane"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3425",
+			"default_name": "Kartal"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3426",
+			"default_name": "Küçükçekmece"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3427",
+			"default_name": "Maltepe"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3428",
+			"default_name": "Pendik"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3429",
+			"default_name": "Sancaktepe"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3430",
+			"default_name": "Sarıyer"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3431",
+			"default_name": "Silivri"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3432",
+			"default_name": "Sultanbeyli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3433",
+			"default_name": "Sultangazi"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3434",
+			"default_name": "Şile"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3435",
+			"default_name": "Şişli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3436",
+			"default_name": "Tuzla"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3437",
+			"default_name": "Ümraniye"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3438",
+			"default_name": "Üsküdar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "34",
+			"code": "3439",
+			"default_name": "Zeytinburnu"
+		}
+	],
+	"35": [
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3501",
+			"default_name": "Aliağa"
+		},
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3502",
+			"default_name": "Balçova"
+		},
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3503",
+			"default_name": "Bayındır"
+		},
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3504",
+			"default_name": "Bayraklı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3505",
+			"default_name": "Bergama"
+		},
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3506",
+			"default_name": "Beydağ"
+		},
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3507",
+			"default_name": "Bornova"
+		},
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3508",
+			"default_name": "Buca"
+		},
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3509",
+			"default_name": "Çeşme"
+		},
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3510",
+			"default_name": "Çiğli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3511",
+			"default_name": "Dikili"
+		},
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3512",
+			"default_name": "Foça"
+		},
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3513",
+			"default_name": "Gaziemir"
+		},
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3514",
+			"default_name": "Güzelbahçe"
+		},
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3515",
+			"default_name": "Karabağlar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3516",
+			"default_name": "Karaburun"
+		},
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3517",
+			"default_name": "Karşıyaka"
+		},
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3518",
+			"default_name": "Kemalpaşa"
+		},
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3519",
+			"default_name": "Kınık"
+		},
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3520",
+			"default_name": "Kiraz"
+		},
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3521",
+			"default_name": "Konak"
+		},
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3522",
+			"default_name": "Menderes"
+		},
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3523",
+			"default_name": "Menemen"
+		},
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3524",
+			"default_name": "Narlıdere"
+		},
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3525",
+			"default_name": "Ödemiş"
+		},
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3526",
+			"default_name": "Seferihisar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3527",
+			"default_name": "Selçuk"
+		},
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3528",
+			"default_name": "Tire"
+		},
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3529",
+			"default_name": "Torbalı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "35",
+			"code": "3530",
+			"default_name": "Urla"
+		}
+	],
+	"36": [
+		{
+			"country_id": 233,
+			"state_code": "36",
+			"code": "3601",
+			"default_name": "Akyaka"
+		},
+		{
+			"country_id": 233,
+			"state_code": "36",
+			"code": "3602",
+			"default_name": "Arpaçay"
+		},
+		{
+			"country_id": 233,
+			"state_code": "36",
+			"code": "3603",
+			"default_name": "Digor"
+		},
+		{
+			"country_id": 233,
+			"state_code": "36",
+			"code": "3604",
+			"default_name": "Kağızman"
+		},
+		{
+			"country_id": 233,
+			"state_code": "36",
+			"code": "3605",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "36",
+			"code": "3606",
+			"default_name": "Sarıkamış"
+		},
+		{
+			"country_id": 233,
+			"state_code": "36",
+			"code": "3607",
+			"default_name": "Selim"
+		},
+		{
+			"country_id": 233,
+			"state_code": "36",
+			"code": "3608",
+			"default_name": "Susuz"
+		}
+	],
+	"37": [
+		{
+			"country_id": 233,
+			"state_code": "37",
+			"code": "3701",
+			"default_name": "Abana"
+		},
+		{
+			"country_id": 233,
+			"state_code": "37",
+			"code": "3702",
+			"default_name": "Ağlı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "37",
+			"code": "3703",
+			"default_name": "Araç"
+		},
+		{
+			"country_id": 233,
+			"state_code": "37",
+			"code": "3704",
+			"default_name": "Azdavay"
+		},
+		{
+			"country_id": 233,
+			"state_code": "37",
+			"code": "3705",
+			"default_name": "Bozkurt"
+		},
+		{
+			"country_id": 233,
+			"state_code": "37",
+			"code": "3706",
+			"default_name": "Cide"
+		},
+		{
+			"country_id": 233,
+			"state_code": "37",
+			"code": "3707",
+			"default_name": "Çatalzeytin"
+		},
+		{
+			"country_id": 233,
+			"state_code": "37",
+			"code": "3708",
+			"default_name": "Daday"
+		},
+		{
+			"country_id": 233,
+			"state_code": "37",
+			"code": "3709",
+			"default_name": "Devrekani"
+		},
+		{
+			"country_id": 233,
+			"state_code": "37",
+			"code": "3710",
+			"default_name": "Doğanyurt"
+		},
+		{
+			"country_id": 233,
+			"state_code": "37",
+			"code": "3711",
+			"default_name": "Hanönü"
+		},
+		{
+			"country_id": 233,
+			"state_code": "37",
+			"code": "3712",
+			"default_name": "İhsangazi"
+		},
+		{
+			"country_id": 233,
+			"state_code": "37",
+			"code": "3713",
+			"default_name": "İnebolu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "37",
+			"code": "3714",
+			"default_name": "Kastamonu Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "37",
+			"code": "3715",
+			"default_name": "Küre"
+		},
+		{
+			"country_id": 233,
+			"state_code": "37",
+			"code": "3716",
+			"default_name": "Pınarbaşı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "37",
+			"code": "3717",
+			"default_name": "Seydiler"
+		},
+		{
+			"country_id": 233,
+			"state_code": "37",
+			"code": "3718",
+			"default_name": "Şenpazar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "37",
+			"code": "3719",
+			"default_name": "Taşköprü"
+		},
+		{
+			"country_id": 233,
+			"state_code": "37",
+			"code": "3720",
+			"default_name": "Tosya"
+		}
+	],
+	"38": [
+		{
+			"country_id": 233,
+			"state_code": "38",
+			"code": "3801",
+			"default_name": "Akkışla"
+		},
+		{
+			"country_id": 233,
+			"state_code": "38",
+			"code": "3802",
+			"default_name": "Bünyan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "38",
+			"code": "3803",
+			"default_name": "Develi"
+		},
+		{
+			"country_id": 233,
+			"state_code": "38",
+			"code": "3804",
+			"default_name": "Felahiye"
+		},
+		{
+			"country_id": 233,
+			"state_code": "38",
+			"code": "3805",
+			"default_name": "Hacılar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "38",
+			"code": "3806",
+			"default_name": "İncesu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "38",
+			"code": "3807",
+			"default_name": "Kocasinan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "38",
+			"code": "3808",
+			"default_name": "Melikgazi"
+		},
+		{
+			"country_id": 233,
+			"state_code": "38",
+			"code": "3809",
+			"default_name": "Özvatan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "38",
+			"code": "3810",
+			"default_name": "Pınarbaşı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "38",
+			"code": "3811",
+			"default_name": "Sarıoğlan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "38",
+			"code": "3812",
+			"default_name": "Sarız"
+		},
+		{
+			"country_id": 233,
+			"state_code": "38",
+			"code": "3813",
+			"default_name": "Talas"
+		},
+		{
+			"country_id": 233,
+			"state_code": "38",
+			"code": "3814",
+			"default_name": "Tomarza"
+		},
+		{
+			"country_id": 233,
+			"state_code": "38",
+			"code": "3815",
+			"default_name": "Yahyalı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "38",
+			"code": "3816",
+			"default_name": "Yeşilhisar"
+		}
+	],
+	"39": [
+		{
+			"country_id": 233,
+			"state_code": "39",
+			"code": "3901",
+			"default_name": "Babaeski"
+		},
+		{
+			"country_id": 233,
+			"state_code": "39",
+			"code": "3902",
+			"default_name": "Demirköy"
+		},
+		{
+			"country_id": 233,
+			"state_code": "39",
+			"code": "3903",
+			"default_name": "Kofçaz"
+		},
+		{
+			"country_id": 233,
+			"state_code": "39",
+			"code": "3904",
+			"default_name": "Lüleburgaz"
+		},
+		{
+			"country_id": 233,
+			"state_code": "39",
+			"code": "3905",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "39",
+			"code": "3906",
+			"default_name": "Pehlivanköy"
+		},
+		{
+			"country_id": 233,
+			"state_code": "39",
+			"code": "3907",
+			"default_name": "Pınarhisar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "39",
+			"code": "3908",
+			"default_name": "Vize"
+		}
+	],
+	"40": [
+		{
+			"country_id": 233,
+			"state_code": "40",
+			"code": "4001",
+			"default_name": "Akçakent"
+		},
+		{
+			"country_id": 233,
+			"state_code": "40",
+			"code": "4002",
+			"default_name": "Akpınar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "40",
+			"code": "4003",
+			"default_name": "Boztepe"
+		},
+		{
+			"country_id": 233,
+			"state_code": "40",
+			"code": "4004",
+			"default_name": "Çiçekdağı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "40",
+			"code": "4005",
+			"default_name": "Kaman"
+		},
+		{
+			"country_id": 233,
+			"state_code": "40",
+			"code": "4006",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "40",
+			"code": "4007",
+			"default_name": "Mucur"
+		}
+	],
+	"41": [
+		{
+			"country_id": 233,
+			"state_code": "41",
+			"code": "4101",
+			"default_name": "Başiskele"
+		},
+		{
+			"country_id": 233,
+			"state_code": "41",
+			"code": "4102",
+			"default_name": "Çayırova"
+		},
+		{
+			"country_id": 233,
+			"state_code": "41",
+			"code": "4103",
+			"default_name": "Darıca"
+		},
+		{
+			"country_id": 233,
+			"state_code": "41",
+			"code": "4104",
+			"default_name": "Derince"
+		},
+		{
+			"country_id": 233,
+			"state_code": "41",
+			"code": "4105",
+			"default_name": "Dilovası"
+		},
+		{
+			"country_id": 233,
+			"state_code": "41",
+			"code": "4106",
+			"default_name": "Gebze"
+		},
+		{
+			"country_id": 233,
+			"state_code": "41",
+			"code": "4107",
+			"default_name": "Gölcük"
+		},
+		{
+			"country_id": 233,
+			"state_code": "41",
+			"code": "4108",
+			"default_name": "İzmit"
+		},
+		{
+			"country_id": 233,
+			"state_code": "41",
+			"code": "4109",
+			"default_name": "Kandıra"
+		},
+		{
+			"country_id": 233,
+			"state_code": "41",
+			"code": "4110",
+			"default_name": "Karamürsel"
+		},
+		{
+			"country_id": 233,
+			"state_code": "41",
+			"code": "4111",
+			"default_name": "Kartepe"
+		},
+		{
+			"country_id": 233,
+			"state_code": "41",
+			"code": "4112",
+			"default_name": "Körfez"
+		}
+	],
+	"42": [
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4201",
+			"default_name": "Ahırlı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4202",
+			"default_name": "Akören"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4203",
+			"default_name": "Akşehir"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4204",
+			"default_name": "Altınekin"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4205",
+			"default_name": "Beyşehir"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4206",
+			"default_name": "Bozkır"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4207",
+			"default_name": "Cihanbeyli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4208",
+			"default_name": "Çeltik"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4209",
+			"default_name": "Çumra"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4210",
+			"default_name": "Derbent"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4211",
+			"default_name": "Derebucak"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4212",
+			"default_name": "Doğanhisar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4213",
+			"default_name": "Emirgazi"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4214",
+			"default_name": "Ereğli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4215",
+			"default_name": "Güneysınır"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4216",
+			"default_name": "Hadim"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4217",
+			"default_name": "Halkapınar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4218",
+			"default_name": "Hüyük"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4219",
+			"default_name": "Ilgın"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4220",
+			"default_name": "Kadınhanı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4221",
+			"default_name": "Karapınar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4222",
+			"default_name": "Karatay"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4223",
+			"default_name": "Kulu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4224",
+			"default_name": "Meram"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4225",
+			"default_name": "Sarayönü"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4226",
+			"default_name": "Selçuklu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4227",
+			"default_name": "Seydişehir"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4228",
+			"default_name": "Taşkent"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4229",
+			"default_name": "Tuzlukçu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4230",
+			"default_name": "Yalıhüyük"
+		},
+		{
+			"country_id": 233,
+			"state_code": "42",
+			"code": "4231",
+			"default_name": "Yunak"
+		}
+	],
+	"43": [
+		{
+			"country_id": 233,
+			"state_code": "43",
+			"code": "4301",
+			"default_name": "Altıntaş"
+		},
+		{
+			"country_id": 233,
+			"state_code": "43",
+			"code": "4302",
+			"default_name": "Aslanapa"
+		},
+		{
+			"country_id": 233,
+			"state_code": "43",
+			"code": "4303",
+			"default_name": "Çavdarhisar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "43",
+			"code": "4304",
+			"default_name": "Domaniç"
+		},
+		{
+			"country_id": 233,
+			"state_code": "43",
+			"code": "4305",
+			"default_name": "Dumlupınar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "43",
+			"code": "4306",
+			"default_name": "Emet"
+		},
+		{
+			"country_id": 233,
+			"state_code": "43",
+			"code": "4307",
+			"default_name": "Gediz"
+		},
+		{
+			"country_id": 233,
+			"state_code": "43",
+			"code": "4308",
+			"default_name": "Hisarcık"
+		},
+		{
+			"country_id": 233,
+			"state_code": "43",
+			"code": "4309",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "43",
+			"code": "4310",
+			"default_name": "Pazarlar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "43",
+			"code": "4311",
+			"default_name": "Simav"
+		},
+		{
+			"country_id": 233,
+			"state_code": "43",
+			"code": "4312",
+			"default_name": "Şaphane"
+		},
+		{
+			"country_id": 233,
+			"state_code": "43",
+			"code": "4313",
+			"default_name": "Tavşanlı"
+		}
+	],
+	"44": [
+		{
+			"country_id": 233,
+			"state_code": "44",
+			"code": "4401",
+			"default_name": "Akçadağ"
+		},
+		{
+			"country_id": 233,
+			"state_code": "44",
+			"code": "4402",
+			"default_name": "Arapgir"
+		},
+		{
+			"country_id": 233,
+			"state_code": "44",
+			"code": "4403",
+			"default_name": "Arguvan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "44",
+			"code": "4404",
+			"default_name": "Battalgazi"
+		},
+		{
+			"country_id": 233,
+			"state_code": "44",
+			"code": "4405",
+			"default_name": "Darende"
+		},
+		{
+			"country_id": 233,
+			"state_code": "44",
+			"code": "4406",
+			"default_name": "Doğanşehir"
+		},
+		{
+			"country_id": 233,
+			"state_code": "44",
+			"code": "4407",
+			"default_name": "Doğanyol"
+		},
+		{
+			"country_id": 233,
+			"state_code": "44",
+			"code": "4408",
+			"default_name": "Hekimhan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "44",
+			"code": "4409",
+			"default_name": "Kale"
+		},
+		{
+			"country_id": 233,
+			"state_code": "44",
+			"code": "4410",
+			"default_name": "Kuluncak"
+		},
+		{
+			"country_id": 233,
+			"state_code": "44",
+			"code": "4411",
+			"default_name": "Pütürge"
+		},
+		{
+			"country_id": 233,
+			"state_code": "44",
+			"code": "4412",
+			"default_name": "Yazıhan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "44",
+			"code": "4413",
+			"default_name": "Yeşilyurt"
+		}
+	],
+	"45": [
+		{
+			"country_id": 233,
+			"state_code": "45",
+			"code": "4501",
+			"default_name": "Ahmetli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "45",
+			"code": "4502",
+			"default_name": "Akhisar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "45",
+			"code": "4503",
+			"default_name": "Alaşehir"
+		},
+		{
+			"country_id": 233,
+			"state_code": "45",
+			"code": "4504",
+			"default_name": "Demirci"
+		},
+		{
+			"country_id": 233,
+			"state_code": "45",
+			"code": "4505",
+			"default_name": "Gölmarmara"
+		},
+		{
+			"country_id": 233,
+			"state_code": "45",
+			"code": "4506",
+			"default_name": "Gördes"
+		},
+		{
+			"country_id": 233,
+			"state_code": "45",
+			"code": "4507",
+			"default_name": "Kırkağaç"
+		},
+		{
+			"country_id": 233,
+			"state_code": "45",
+			"code": "4508",
+			"default_name": "Köprübaşı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "45",
+			"code": "4509",
+			"default_name": "Kula"
+		},
+		{
+			"country_id": 233,
+			"state_code": "45",
+			"code": "4510",
+			"default_name": "Salihli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "45",
+			"code": "4511",
+			"default_name": "Sarıgöl"
+		},
+		{
+			"country_id": 233,
+			"state_code": "45",
+			"code": "4512",
+			"default_name": "Saruhanlı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "45",
+			"code": "4513",
+			"default_name": "Selendi"
+		},
+		{
+			"country_id": 233,
+			"state_code": "45",
+			"code": "4514",
+			"default_name": "Soma"
+		},
+		{
+			"country_id": 233,
+			"state_code": "45",
+			"code": "4515",
+			"default_name": "Şehzadeler"
+		},
+		{
+			"country_id": 233,
+			"state_code": "45",
+			"code": "4516",
+			"default_name": "Turgutlu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "45",
+			"code": "4517",
+			"default_name": "Yunusemre"
+		}
+	],
+	"46": [
+		{
+			"country_id": 233,
+			"state_code": "46",
+			"code": "4601",
+			"default_name": "Afşin"
+		},
+		{
+			"country_id": 233,
+			"state_code": "46",
+			"code": "4602",
+			"default_name": "Andırın"
+		},
+		{
+			"country_id": 233,
+			"state_code": "46",
+			"code": "4603",
+			"default_name": "Dulkadiroğlu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "46",
+			"code": "4604",
+			"default_name": "Ekinözü"
+		},
+		{
+			"country_id": 233,
+			"state_code": "46",
+			"code": "4605",
+			"default_name": "Elbistan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "46",
+			"code": "4606",
+			"default_name": "Göksun"
+		},
+		{
+			"country_id": 233,
+			"state_code": "46",
+			"code": "4607",
+			"default_name": "Nurhak"
+		},
+		{
+			"country_id": 233,
+			"state_code": "46",
+			"code": "4608",
+			"default_name": "Onikişubat"
+		},
+		{
+			"country_id": 233,
+			"state_code": "46",
+			"code": "4609",
+			"default_name": "Pazarcık"
+		},
+		{
+			"country_id": 233,
+			"state_code": "46",
+			"code": "4610",
+			"default_name": "Türkoğlu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "46",
+			"code": "4611",
+			"default_name": "Çağlayancerit"
+		}
+	],
+	"47": [
+		{
+			"country_id": 233,
+			"state_code": "47",
+			"code": "4701",
+			"default_name": "Artuklu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "47",
+			"code": "4702",
+			"default_name": "Dargeçit"
+		},
+		{
+			"country_id": 233,
+			"state_code": "47",
+			"code": "4703",
+			"default_name": "Derik"
+		},
+		{
+			"country_id": 233,
+			"state_code": "47",
+			"code": "4704",
+			"default_name": "Kızıltepe"
+		},
+		{
+			"country_id": 233,
+			"state_code": "47",
+			"code": "4705",
+			"default_name": "Mazıdağı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "47",
+			"code": "4706",
+			"default_name": "Midyat"
+		},
+		{
+			"country_id": 233,
+			"state_code": "47",
+			"code": "4707",
+			"default_name": "Nusaybin"
+		},
+		{
+			"country_id": 233,
+			"state_code": "47",
+			"code": "4708",
+			"default_name": "Ömerli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "47",
+			"code": "4709",
+			"default_name": "Savur"
+		},
+		{
+			"country_id": 233,
+			"state_code": "47",
+			"code": "4710",
+			"default_name": "Yeşilli"
+		}
+	],
+	"48": [
+		{
+			"country_id": 233,
+			"state_code": "48",
+			"code": "4801",
+			"default_name": "Bodrum"
+		},
+		{
+			"country_id": 233,
+			"state_code": "48",
+			"code": "4802",
+			"default_name": "Dalaman"
+		},
+		{
+			"country_id": 233,
+			"state_code": "48",
+			"code": "4803",
+			"default_name": "Datça"
+		},
+		{
+			"country_id": 233,
+			"state_code": "48",
+			"code": "4804",
+			"default_name": "Fethiye"
+		},
+		{
+			"country_id": 233,
+			"state_code": "48",
+			"code": "4805",
+			"default_name": "Kavaklıdere"
+		},
+		{
+			"country_id": 233,
+			"state_code": "48",
+			"code": "4806",
+			"default_name": "Köyceğiz"
+		},
+		{
+			"country_id": 233,
+			"state_code": "48",
+			"code": "4807",
+			"default_name": "Marmaris"
+		},
+		{
+			"country_id": 233,
+			"state_code": "48",
+			"code": "4808",
+			"default_name": "Menteşe"
+		},
+		{
+			"country_id": 233,
+			"state_code": "48",
+			"code": "4809",
+			"default_name": "Milas"
+		},
+		{
+			"country_id": 233,
+			"state_code": "48",
+			"code": "4810",
+			"default_name": "Ortaca"
+		},
+		{
+			"country_id": 233,
+			"state_code": "48",
+			"code": "4811",
+			"default_name": "Seydikemer"
+		},
+		{
+			"country_id": 233,
+			"state_code": "48",
+			"code": "4812",
+			"default_name": "Ula"
+		},
+		{
+			"country_id": 233,
+			"state_code": "48",
+			"code": "4813",
+			"default_name": "Yatağan"
+		}
+	],
+	"49": [
+		{
+			"country_id": 233,
+			"state_code": "49",
+			"code": "4901",
+			"default_name": "Bulanık"
+		},
+		{
+			"country_id": 233,
+			"state_code": "49",
+			"code": "4902",
+			"default_name": "Hasköy"
+		},
+		{
+			"country_id": 233,
+			"state_code": "49",
+			"code": "4903",
+			"default_name": "Korkut"
+		},
+		{
+			"country_id": 233,
+			"state_code": "49",
+			"code": "4904",
+			"default_name": "Malazgirt"
+		},
+		{
+			"country_id": 233,
+			"state_code": "49",
+			"code": "4905",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "49",
+			"code": "4906",
+			"default_name": "Varto"
+		}
+	],
+	"50": [
+		{
+			"country_id": 233,
+			"state_code": "50",
+			"code": "5001",
+			"default_name": "Acıgöl"
+		},
+		{
+			"country_id": 233,
+			"state_code": "50",
+			"code": "5002",
+			"default_name": "Avanos"
+		},
+		{
+			"country_id": 233,
+			"state_code": "50",
+			"code": "5003",
+			"default_name": "Derinkuyu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "50",
+			"code": "5004",
+			"default_name": "Gülşehir"
+		},
+		{
+			"country_id": 233,
+			"state_code": "50",
+			"code": "5005",
+			"default_name": "Hacıbektaş"
+		},
+		{
+			"country_id": 233,
+			"state_code": "50",
+			"code": "5006",
+			"default_name": "Kozaklı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "50",
+			"code": "5007",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "50",
+			"code": "5008",
+			"default_name": "Ürgüp"
+		}
+	],
+	"51": [
+		{
+			"country_id": 233,
+			"state_code": "51",
+			"code": "5101",
+			"default_name": "Altunhisar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "51",
+			"code": "5102",
+			"default_name": "Bor"
+		},
+		{
+			"country_id": 233,
+			"state_code": "51",
+			"code": "5103",
+			"default_name": "Çamardı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "51",
+			"code": "5104",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "51",
+			"code": "5105",
+			"default_name": "Ulukışla"
+		},
+		{
+			"country_id": 233,
+			"state_code": "51",
+			"code": "5106",
+			"default_name": "Çiftlik"
+		}
+	],
+	"52": [
+		{
+			"country_id": 233,
+			"state_code": "52",
+			"code": "5201",
+			"default_name": "Akkuş"
+		},
+		{
+			"country_id": 233,
+			"state_code": "52",
+			"code": "5202",
+			"default_name": "Altınordu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "52",
+			"code": "5203",
+			"default_name": "Aybastı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "52",
+			"code": "5204",
+			"default_name": "Çamaş"
+		},
+		{
+			"country_id": 233,
+			"state_code": "52",
+			"code": "5205",
+			"default_name": "Çatalpınar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "52",
+			"code": "5206",
+			"default_name": "Çaybaşı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "52",
+			"code": "5207",
+			"default_name": "Fatsa"
+		},
+		{
+			"country_id": 233,
+			"state_code": "52",
+			"code": "5208",
+			"default_name": "Gölköy"
+		},
+		{
+			"country_id": 233,
+			"state_code": "52",
+			"code": "5209",
+			"default_name": "Gülyalı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "52",
+			"code": "5210",
+			"default_name": "Gürgentepe"
+		},
+		{
+			"country_id": 233,
+			"state_code": "52",
+			"code": "5211",
+			"default_name": "Ikizce"
+		},
+		{
+			"country_id": 233,
+			"state_code": "52",
+			"code": "5212",
+			"default_name": "Kabadüz"
+		},
+		{
+			"country_id": 233,
+			"state_code": "52",
+			"code": "5213",
+			"default_name": "Kabataş"
+		},
+		{
+			"country_id": 233,
+			"state_code": "52",
+			"code": "5214",
+			"default_name": "Korgan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "52",
+			"code": "5215",
+			"default_name": "Kumru"
+		},
+		{
+			"country_id": 233,
+			"state_code": "52",
+			"code": "5216",
+			"default_name": "Mesudiye"
+		},
+		{
+			"country_id": 233,
+			"state_code": "52",
+			"code": "5217",
+			"default_name": "Perşembe"
+		},
+		{
+			"country_id": 233,
+			"state_code": "52",
+			"code": "5218",
+			"default_name": "Ulubey"
+		},
+		{
+			"country_id": 233,
+			"state_code": "52",
+			"code": "5219",
+			"default_name": "Ünye"
+		}
+	],
+	"53": [
+		{
+			"country_id": 233,
+			"state_code": "53",
+			"code": "5301",
+			"default_name": "Ardeşen"
+		},
+		{
+			"country_id": 233,
+			"state_code": "53",
+			"code": "5302",
+			"default_name": "Çamlıhemşin"
+		},
+		{
+			"country_id": 233,
+			"state_code": "53",
+			"code": "5303",
+			"default_name": "Çayeli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "53",
+			"code": "5304",
+			"default_name": "Derepazarı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "53",
+			"code": "5305",
+			"default_name": "Fındıklı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "53",
+			"code": "5306",
+			"default_name": "Güneysu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "53",
+			"code": "5307",
+			"default_name": "Hemşin"
+		},
+		{
+			"country_id": 233,
+			"state_code": "53",
+			"code": "5308",
+			"default_name": "İkizdere"
+		},
+		{
+			"country_id": 233,
+			"state_code": "53",
+			"code": "5309",
+			"default_name": "İyidere"
+		},
+		{
+			"country_id": 233,
+			"state_code": "53",
+			"code": "5310",
+			"default_name": "Kalkandere"
+		},
+		{
+			"country_id": 233,
+			"state_code": "53",
+			"code": "5311",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "53",
+			"code": "5312",
+			"default_name": "Pazar"
+		}
+	],
+	"54": [
+		{
+			"country_id": 233,
+			"state_code": "54",
+			"code": "5401",
+			"default_name": "Adapazarı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "54",
+			"code": "5402",
+			"default_name": "Akyazı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "54",
+			"code": "5403",
+			"default_name": "Arifiye"
+		},
+		{
+			"country_id": 233,
+			"state_code": "54",
+			"code": "5404",
+			"default_name": "Erenler"
+		},
+		{
+			"country_id": 233,
+			"state_code": "54",
+			"code": "5405",
+			"default_name": "Ferizli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "54",
+			"code": "5406",
+			"default_name": "Geyve"
+		},
+		{
+			"country_id": 233,
+			"state_code": "54",
+			"code": "5407",
+			"default_name": "Hendek"
+		},
+		{
+			"country_id": 233,
+			"state_code": "54",
+			"code": "5408",
+			"default_name": "Karapürçek"
+		},
+		{
+			"country_id": 233,
+			"state_code": "54",
+			"code": "5409",
+			"default_name": "Karasu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "54",
+			"code": "5410",
+			"default_name": "Kaynarca"
+		},
+		{
+			"country_id": 233,
+			"state_code": "54",
+			"code": "5411",
+			"default_name": "Kocaali"
+		},
+		{
+			"country_id": 233,
+			"state_code": "54",
+			"code": "5412",
+			"default_name": "Pamukova"
+		},
+		{
+			"country_id": 233,
+			"state_code": "54",
+			"code": "5413",
+			"default_name": "Sapanca"
+		},
+		{
+			"country_id": 233,
+			"state_code": "54",
+			"code": "5414",
+			"default_name": "Serdivan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "54",
+			"code": "5415",
+			"default_name": "Söğütlü"
+		},
+		{
+			"country_id": 233,
+			"state_code": "54",
+			"code": "5416",
+			"default_name": "Taraklı"
+		}
+	],
+	"55": [
+		{
+			"country_id": 233,
+			"state_code": "55",
+			"code": "5501",
+			"default_name": "Alaçam"
+		},
+		{
+			"country_id": 233,
+			"state_code": "55",
+			"code": "5502",
+			"default_name": "Asarcık"
+		},
+		{
+			"country_id": 233,
+			"state_code": "55",
+			"code": "5503",
+			"default_name": "Atakum"
+		},
+		{
+			"country_id": 233,
+			"state_code": "55",
+			"code": "5504",
+			"default_name": "Ayvacık"
+		},
+		{
+			"country_id": 233,
+			"state_code": "55",
+			"code": "5505",
+			"default_name": "Bafra"
+		},
+		{
+			"country_id": 233,
+			"state_code": "55",
+			"code": "5506",
+			"default_name": "Canik"
+		},
+		{
+			"country_id": 233,
+			"state_code": "55",
+			"code": "5507",
+			"default_name": "Çarşamba"
+		},
+		{
+			"country_id": 233,
+			"state_code": "55",
+			"code": "5508",
+			"default_name": "Havza"
+		},
+		{
+			"country_id": 233,
+			"state_code": "55",
+			"code": "5509",
+			"default_name": "İlkadım"
+		},
+		{
+			"country_id": 233,
+			"state_code": "55",
+			"code": "5510",
+			"default_name": "Kavak"
+		},
+		{
+			"country_id": 233,
+			"state_code": "55",
+			"code": "5511",
+			"default_name": "Ladik"
+		},
+		{
+			"country_id": 233,
+			"state_code": "55",
+			"code": "5512",
+			"default_name": "Salıpazarı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "55",
+			"code": "5513",
+			"default_name": "Tekkeköy"
+		},
+		{
+			"country_id": 233,
+			"state_code": "55",
+			"code": "5514",
+			"default_name": "Terme"
+		},
+		{
+			"country_id": 233,
+			"state_code": "55",
+			"code": "5515",
+			"default_name": "Vezirköprü"
+		},
+		{
+			"country_id": 233,
+			"state_code": "55",
+			"code": "5516",
+			"default_name": "Yakakent"
+		},
+		{
+			"country_id": 233,
+			"state_code": "55",
+			"code": "5517",
+			"default_name": "19 Mayıs"
+		}
+	],
+	"56": [
+		{
+			"country_id": 233,
+			"state_code": "56",
+			"code": "5601",
+			"default_name": "Baykan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "56",
+			"code": "5602",
+			"default_name": "Eruh"
+		},
+		{
+			"country_id": 233,
+			"state_code": "56",
+			"code": "5603",
+			"default_name": "Kurtalan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "56",
+			"code": "5604",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "56",
+			"code": "5605",
+			"default_name": "Pervari"
+		},
+		{
+			"country_id": 233,
+			"state_code": "56",
+			"code": "5606",
+			"default_name": "Şirvan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "56",
+			"code": "5607",
+			"default_name": "Tillo"
+		}
+	],
+	"57": [
+		{
+			"country_id": 233,
+			"state_code": "57",
+			"code": "5701",
+			"default_name": "Ayancık"
+		},
+		{
+			"country_id": 233,
+			"state_code": "57",
+			"code": "5702",
+			"default_name": "Boyabat"
+		},
+		{
+			"country_id": 233,
+			"state_code": "57",
+			"code": "5703",
+			"default_name": "Dikmen"
+		},
+		{
+			"country_id": 233,
+			"state_code": "57",
+			"code": "5704",
+			"default_name": "Durağan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "57",
+			"code": "5705",
+			"default_name": "Erfelek"
+		},
+		{
+			"country_id": 233,
+			"state_code": "57",
+			"code": "5706",
+			"default_name": "Gerze"
+		},
+		{
+			"country_id": 233,
+			"state_code": "57",
+			"code": "5707",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "57",
+			"code": "5708",
+			"default_name": "Saraydüzü"
+		},
+		{
+			"country_id": 233,
+			"state_code": "57",
+			"code": "5709",
+			"default_name": "Türkeli"
+		}
+	],
+	"58": [
+		{
+			"country_id": 233,
+			"state_code": "58",
+			"code": "5801",
+			"default_name": "Akıncılar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "58",
+			"code": "5802",
+			"default_name": "Altınyayla"
+		},
+		{
+			"country_id": 233,
+			"state_code": "58",
+			"code": "5803",
+			"default_name": "Divriği"
+		},
+		{
+			"country_id": 233,
+			"state_code": "58",
+			"code": "5804",
+			"default_name": "Doğanşar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "58",
+			"code": "5805",
+			"default_name": "Gemerek"
+		},
+		{
+			"country_id": 233,
+			"state_code": "58",
+			"code": "5806",
+			"default_name": "Gölova"
+		},
+		{
+			"country_id": 233,
+			"state_code": "58",
+			"code": "5807",
+			"default_name": "Gürün"
+		},
+		{
+			"country_id": 233,
+			"state_code": "58",
+			"code": "5808",
+			"default_name": "Hafik"
+		},
+		{
+			"country_id": 233,
+			"state_code": "58",
+			"code": "5809",
+			"default_name": "İmranlı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "58",
+			"code": "5810",
+			"default_name": "Kangal"
+		},
+		{
+			"country_id": 233,
+			"state_code": "58",
+			"code": "5811",
+			"default_name": "Koyulhisar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "58",
+			"code": "5812",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "58",
+			"code": "5813",
+			"default_name": "Şarkışla"
+		},
+		{
+			"country_id": 233,
+			"state_code": "58",
+			"code": "5814",
+			"default_name": "Suşehri"
+		},
+		{
+			"country_id": 233,
+			"state_code": "58",
+			"code": "5815",
+			"default_name": "Ulaş"
+		},
+		{
+			"country_id": 233,
+			"state_code": "58",
+			"code": "5816",
+			"default_name": "Yıldızeli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "58",
+			"code": "5817",
+			"default_name": "Zara"
+		}
+	],
+	"59": [
+		{
+			"country_id": 233,
+			"state_code": "59",
+			"code": "5901",
+			"default_name": "Çerkezköy"
+		},
+		{
+			"country_id": 233,
+			"state_code": "59",
+			"code": "5902",
+			"default_name": "Çorlu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "59",
+			"code": "5903",
+			"default_name": "Ergene"
+		},
+		{
+			"country_id": 233,
+			"state_code": "59",
+			"code": "5904",
+			"default_name": "Hayrabolu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "59",
+			"code": "5905",
+			"default_name": "Kapaklı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "59",
+			"code": "5906",
+			"default_name": "Malkara"
+		},
+		{
+			"country_id": 233,
+			"state_code": "59",
+			"code": "5907",
+			"default_name": "Marmaraereğlisi"
+		},
+		{
+			"country_id": 233,
+			"state_code": "59",
+			"code": "5908",
+			"default_name": "Muratlı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "59",
+			"code": "5909",
+			"default_name": "Saray"
+		},
+		{
+			"country_id": 233,
+			"state_code": "59",
+			"code": "5910",
+			"default_name": "Süleymanpaşa"
+		},
+		{
+			"country_id": 233,
+			"state_code": "59",
+			"code": "5911",
+			"default_name": "Şarköy"
+		}
+	],
+	"60": [
+		{
+			"country_id": 233,
+			"state_code": "60",
+			"code": "6001",
+			"default_name": "Almus"
+		},
+		{
+			"country_id": 233,
+			"state_code": "60",
+			"code": "6002",
+			"default_name": "Artova"
+		},
+		{
+			"country_id": 233,
+			"state_code": "60",
+			"code": "6003",
+			"default_name": "Başçiftlik"
+		},
+		{
+			"country_id": 233,
+			"state_code": "60",
+			"code": "6004",
+			"default_name": "Erbaa"
+		},
+		{
+			"country_id": 233,
+			"state_code": "60",
+			"code": "6005",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "60",
+			"code": "6006",
+			"default_name": "Niksar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "60",
+			"code": "6007",
+			"default_name": "Pazar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "60",
+			"code": "6008",
+			"default_name": "Reşadiye"
+		},
+		{
+			"country_id": 233,
+			"state_code": "60",
+			"code": "6009",
+			"default_name": "Sulusaray"
+		},
+		{
+			"country_id": 233,
+			"state_code": "60",
+			"code": "6010",
+			"default_name": "Turhal"
+		},
+		{
+			"country_id": 233,
+			"state_code": "60",
+			"code": "6011",
+			"default_name": "Yeşilyurt"
+		},
+		{
+			"country_id": 233,
+			"state_code": "60",
+			"code": "6012",
+			"default_name": "Zile"
+		}
+	],
+	"61": [
+		{
+			"country_id": 233,
+			"state_code": "61",
+			"code": "6101",
+			"default_name": "Akçaabat"
+		},
+		{
+			"country_id": 233,
+			"state_code": "61",
+			"code": "6102",
+			"default_name": "Araklı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "61",
+			"code": "6103",
+			"default_name": "Arsin"
+		},
+		{
+			"country_id": 233,
+			"state_code": "61",
+			"code": "6104",
+			"default_name": "Beşikdüzü"
+		},
+		{
+			"country_id": 233,
+			"state_code": "61",
+			"code": "6105",
+			"default_name": "Çarşıbaşı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "61",
+			"code": "6106",
+			"default_name": "Çaykara"
+		},
+		{
+			"country_id": 233,
+			"state_code": "61",
+			"code": "6107",
+			"default_name": "Dernekpazarı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "61",
+			"code": "6108",
+			"default_name": "Düzköy"
+		},
+		{
+			"country_id": 233,
+			"state_code": "61",
+			"code": "6109",
+			"default_name": "Hayrat"
+		},
+		{
+			"country_id": 233,
+			"state_code": "61",
+			"code": "6110",
+			"default_name": "Köprübaşı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "61",
+			"code": "6111",
+			"default_name": "Maçka"
+		},
+		{
+			"country_id": 233,
+			"state_code": "61",
+			"code": "6112",
+			"default_name": "Of"
+		},
+		{
+			"country_id": 233,
+			"state_code": "61",
+			"code": "6113",
+			"default_name": "Ortahisar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "61",
+			"code": "6114",
+			"default_name": "Sürmene"
+		},
+		{
+			"country_id": 233,
+			"state_code": "61",
+			"code": "6115",
+			"default_name": "Şalpazarı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "61",
+			"code": "6116",
+			"default_name": "Tonya"
+		},
+		{
+			"country_id": 233,
+			"state_code": "61",
+			"code": "6117",
+			"default_name": "Vakfıkebir"
+		},
+		{
+			"country_id": 233,
+			"state_code": "61",
+			"code": "6118",
+			"default_name": "Yomra"
+		}
+	],
+	"62": [
+		{
+			"country_id": 233,
+			"state_code": "62",
+			"code": "6201",
+			"default_name": "Çemişgezek"
+		},
+		{
+			"country_id": 233,
+			"state_code": "62",
+			"code": "6202",
+			"default_name": "Hozat"
+		},
+		{
+			"country_id": 233,
+			"state_code": "62",
+			"code": "6203",
+			"default_name": "Mazgirt"
+		},
+		{
+			"country_id": 233,
+			"state_code": "62",
+			"code": "6204",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "62",
+			"code": "6205",
+			"default_name": "Nazımiye"
+		},
+		{
+			"country_id": 233,
+			"state_code": "62",
+			"code": "6206",
+			"default_name": "Ovacık"
+		},
+		{
+			"country_id": 233,
+			"state_code": "62",
+			"code": "6207",
+			"default_name": "Pertek"
+		},
+		{
+			"country_id": 233,
+			"state_code": "62",
+			"code": "6208",
+			"default_name": "Pülümür"
+		}
+	],
+	"63": [
+		{
+			"country_id": 233,
+			"state_code": "63",
+			"code": "6301",
+			"default_name": "Akçakale"
+		},
+		{
+			"country_id": 233,
+			"state_code": "63",
+			"code": "6302",
+			"default_name": "Birecik"
+		},
+		{
+			"country_id": 233,
+			"state_code": "63",
+			"code": "6303",
+			"default_name": "Bozova"
+		},
+		{
+			"country_id": 233,
+			"state_code": "63",
+			"code": "6304",
+			"default_name": "Ceylanpınar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "63",
+			"code": "6305",
+			"default_name": "Eyyübiye"
+		},
+		{
+			"country_id": 233,
+			"state_code": "63",
+			"code": "6306",
+			"default_name": "Halfeti"
+		},
+		{
+			"country_id": 233,
+			"state_code": "63",
+			"code": "6307",
+			"default_name": "Haliliye"
+		},
+		{
+			"country_id": 233,
+			"state_code": "63",
+			"code": "6308",
+			"default_name": "Harran"
+		},
+		{
+			"country_id": 233,
+			"state_code": "63",
+			"code": "6309",
+			"default_name": "Hilvan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "63",
+			"code": "6310",
+			"default_name": "Karaköprü"
+		},
+		{
+			"country_id": 233,
+			"state_code": "63",
+			"code": "6311",
+			"default_name": "Siverek"
+		},
+		{
+			"country_id": 233,
+			"state_code": "63",
+			"code": "6312",
+			"default_name": "Suruç"
+		},
+		{
+			"country_id": 233,
+			"state_code": "63",
+			"code": "6313",
+			"default_name": "Viranşehir"
+		}
+	],
+	"64": [
+		{
+			"country_id": 233,
+			"state_code": "64",
+			"code": "6401",
+			"default_name": "Banaz"
+		},
+		{
+			"country_id": 233,
+			"state_code": "64",
+			"code": "6402",
+			"default_name": "Eşme"
+		},
+		{
+			"country_id": 233,
+			"state_code": "64",
+			"code": "6403",
+			"default_name": "Karahallı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "64",
+			"code": "6404",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "64",
+			"code": "6405",
+			"default_name": "Sivaslı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "64",
+			"code": "6406",
+			"default_name": "Ulubey"
+		}
+	],
+	"65": [
+		{
+			"country_id": 233,
+			"state_code": "65",
+			"code": "6501",
+			"default_name": "Bahçesaray"
+		},
+		{
+			"country_id": 233,
+			"state_code": "65",
+			"code": "6502",
+			"default_name": "Başkale"
+		},
+		{
+			"country_id": 233,
+			"state_code": "65",
+			"code": "6503",
+			"default_name": "Çaldıran"
+		},
+		{
+			"country_id": 233,
+			"state_code": "65",
+			"code": "6504",
+			"default_name": "Çatak"
+		},
+		{
+			"country_id": 233,
+			"state_code": "65",
+			"code": "6505",
+			"default_name": "Edremit"
+		},
+		{
+			"country_id": 233,
+			"state_code": "65",
+			"code": "6506",
+			"default_name": "Erciş"
+		},
+		{
+			"country_id": 233,
+			"state_code": "65",
+			"code": "6507",
+			"default_name": "Gevaş"
+		},
+		{
+			"country_id": 233,
+			"state_code": "65",
+			"code": "6508",
+			"default_name": "Gürpınar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "65",
+			"code": "6509",
+			"default_name": "İpekyolu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "65",
+			"code": "6510",
+			"default_name": "Muradiye"
+		},
+		{
+			"country_id": 233,
+			"state_code": "65",
+			"code": "6511",
+			"default_name": "Özalp"
+		},
+		{
+			"country_id": 233,
+			"state_code": "65",
+			"code": "6512",
+			"default_name": "Saray"
+		},
+		{
+			"country_id": 233,
+			"state_code": "65",
+			"code": "6513",
+			"default_name": "Tuşba"
+		}
+	],
+	"66": [
+		{
+			"country_id": 233,
+			"state_code": "66",
+			"code": "6601",
+			"default_name": "Akdağmadeni"
+		},
+		{
+			"country_id": 233,
+			"state_code": "66",
+			"code": "6602",
+			"default_name": "Aydıncık"
+		},
+		{
+			"country_id": 233,
+			"state_code": "66",
+			"code": "6603",
+			"default_name": "Boğazlıyan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "66",
+			"code": "6604",
+			"default_name": "Çandır"
+		},
+		{
+			"country_id": 233,
+			"state_code": "66",
+			"code": "6605",
+			"default_name": "Çayıralan"
+		},
+		{
+			"country_id": 233,
+			"state_code": "66",
+			"code": "6606",
+			"default_name": "Çekerek"
+		},
+		{
+			"country_id": 233,
+			"state_code": "66",
+			"code": "6607",
+			"default_name": "Kadışehri"
+		},
+		{
+			"country_id": 233,
+			"state_code": "66",
+			"code": "6608",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "66",
+			"code": "6609",
+			"default_name": "Saraykent"
+		},
+		{
+			"country_id": 233,
+			"state_code": "66",
+			"code": "6610",
+			"default_name": "Sarıkaya"
+		},
+		{
+			"country_id": 233,
+			"state_code": "66",
+			"code": "6611",
+			"default_name": "Sorgun"
+		},
+		{
+			"country_id": 233,
+			"state_code": "66",
+			"code": "6612",
+			"default_name": "Şefaatli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "66",
+			"code": "6613",
+			"default_name": "Yenifakılı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "66",
+			"code": "6614",
+			"default_name": "Yerköy"
+		}
+	],
+	"67": [
+		{
+			"country_id": 233,
+			"state_code": "67",
+			"code": "6701",
+			"default_name": "Alaplı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "67",
+			"code": "6702",
+			"default_name": "Çaycuma"
+		},
+		{
+			"country_id": 233,
+			"state_code": "67",
+			"code": "6703",
+			"default_name": "Devrek"
+		},
+		{
+			"country_id": 233,
+			"state_code": "67",
+			"code": "6704",
+			"default_name": "Ereğli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "67",
+			"code": "6705",
+			"default_name": "Gökçebey"
+		},
+		{
+			"country_id": 233,
+			"state_code": "67",
+			"code": "6706",
+			"default_name": "Kilimli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "67",
+			"code": "6707",
+			"default_name": "Kozlu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "67",
+			"code": "6708",
+			"default_name": "Merkez"
+		}
+	],
+	"68": [
+		{
+			"country_id": 233,
+			"state_code": "68",
+			"code": "6801",
+			"default_name": "Ağaçören"
+		},
+		{
+			"country_id": 233,
+			"state_code": "68",
+			"code": "6802",
+			"default_name": "Eskil"
+		},
+		{
+			"country_id": 233,
+			"state_code": "68",
+			"code": "6803",
+			"default_name": "Gülağaç"
+		},
+		{
+			"country_id": 233,
+			"state_code": "68",
+			"code": "6804",
+			"default_name": "Güzelyurt"
+		},
+		{
+			"country_id": 233,
+			"state_code": "68",
+			"code": "6805",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "68",
+			"code": "6806",
+			"default_name": "Ortaköy"
+		},
+		{
+			"country_id": 233,
+			"state_code": "68",
+			"code": "6807",
+			"default_name": "Sarıyahşi"
+		},
+		{
+			"country_id": 233,
+			"state_code": "68",
+			"code": "6808",
+			"default_name": "Sultanhanı"
+		}
+	],
+	"69": [
+		{
+			"country_id": 233,
+			"state_code": "69",
+			"code": "6901",
+			"default_name": "Aydıntepe"
+		},
+		{
+			"country_id": 233,
+			"state_code": "69",
+			"code": "6902",
+			"default_name": "Demirözü"
+		},
+		{
+			"country_id": 233,
+			"state_code": "69",
+			"code": "6903",
+			"default_name": "Merkez"
+		}
+	],
+	"70": [
+		{
+			"country_id": 233,
+			"state_code": "70",
+			"code": "7001",
+			"default_name": "Ayrancı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "70",
+			"code": "7002",
+			"default_name": "Başyayla"
+		},
+		{
+			"country_id": 233,
+			"state_code": "70",
+			"code": "7003",
+			"default_name": "Ermenek"
+		},
+		{
+			"country_id": 233,
+			"state_code": "70",
+			"code": "7004",
+			"default_name": "Kazımkarabekir"
+		},
+		{
+			"country_id": 233,
+			"state_code": "70",
+			"code": "7005",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "70",
+			"code": "7006",
+			"default_name": "Sarıveliler"
+		}
+	],
+	"71": [
+		{
+			"country_id": 233,
+			"state_code": "71",
+			"code": "7101",
+			"default_name": "Bahşılı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "71",
+			"code": "7102",
+			"default_name": "Balışeyh"
+		},
+		{
+			"country_id": 233,
+			"state_code": "71",
+			"code": "7103",
+			"default_name": "Çelebi"
+		},
+		{
+			"country_id": 233,
+			"state_code": "71",
+			"code": "7104",
+			"default_name": "Delice"
+		},
+		{
+			"country_id": 233,
+			"state_code": "71",
+			"code": "7105",
+			"default_name": "Karakeçili"
+		},
+		{
+			"country_id": 233,
+			"state_code": "71",
+			"code": "7106",
+			"default_name": "Keskin"
+		},
+		{
+			"country_id": 233,
+			"state_code": "71",
+			"code": "7107",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "71",
+			"code": "7108",
+			"default_name": "Sulakyurt"
+		},
+		{
+			"country_id": 233,
+			"state_code": "71",
+			"code": "7109",
+			"default_name": "Yahşihan"
+		}
+	],
+	"72": [
+		{
+			"country_id": 233,
+			"state_code": "72",
+			"code": "7201",
+			"default_name": "Beşiri"
+		},
+		{
+			"country_id": 233,
+			"state_code": "72",
+			"code": "7202",
+			"default_name": "Gercüş"
+		},
+		{
+			"country_id": 233,
+			"state_code": "72",
+			"code": "7203",
+			"default_name": "Hasankeyf"
+		},
+		{
+			"country_id": 233,
+			"state_code": "72",
+			"code": "7204",
+			"default_name": "Kozluk"
+		},
+		{
+			"country_id": 233,
+			"state_code": "72",
+			"code": "7205",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "72",
+			"code": "7206",
+			"default_name": "Sason"
+		}
+	],
+	"73": [
+		{
+			"country_id": 233,
+			"state_code": "73",
+			"code": "7301",
+			"default_name": "Beytüşşebap"
+		},
+		{
+			"country_id": 233,
+			"state_code": "73",
+			"code": "7302",
+			"default_name": "Cizre"
+		},
+		{
+			"country_id": 233,
+			"state_code": "73",
+			"code": "7303",
+			"default_name": "Güçlükonak"
+		},
+		{
+			"country_id": 233,
+			"state_code": "73",
+			"code": "7304",
+			"default_name": "İdil"
+		},
+		{
+			"country_id": 233,
+			"state_code": "73",
+			"code": "7305",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "73",
+			"code": "7306",
+			"default_name": "Silopi"
+		},
+		{
+			"country_id": 233,
+			"state_code": "73",
+			"code": "7307",
+			"default_name": "Uludere"
+		}
+	],
+	"74": [
+		{
+			"country_id": 233,
+			"state_code": "74",
+			"code": "7401",
+			"default_name": "Amasra"
+		},
+		{
+			"country_id": 233,
+			"state_code": "74",
+			"code": "7402",
+			"default_name": "Kurucaşile"
+		},
+		{
+			"country_id": 233,
+			"state_code": "74",
+			"code": "7403",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "74",
+			"code": "7404",
+			"default_name": "Ulus"
+		}
+	],
+	"75": [
+		{
+			"country_id": 233,
+			"state_code": "75",
+			"code": "7501",
+			"default_name": "Çıldır"
+		},
+		{
+			"country_id": 233,
+			"state_code": "75",
+			"code": "7502",
+			"default_name": "Damal"
+		},
+		{
+			"country_id": 233,
+			"state_code": "75",
+			"code": "7503",
+			"default_name": "Göle"
+		},
+		{
+			"country_id": 233,
+			"state_code": "75",
+			"code": "7504",
+			"default_name": "Hanak"
+		},
+		{
+			"country_id": 233,
+			"state_code": "75",
+			"code": "7505",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "75",
+			"code": "7506",
+			"default_name": "Posof"
+		}
+	],
+	"76": [
+		{
+			"country_id": 233,
+			"state_code": "76",
+			"code": "7601",
+			"default_name": "Aralık"
+		},
+		{
+			"country_id": 233,
+			"state_code": "76",
+			"code": "7602",
+			"default_name": "Karakoyunlu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "76",
+			"code": "7603",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "76",
+			"code": "7604",
+			"default_name": "Tuzluca"
+		}
+	],
+	"77": [
+		{
+			"country_id": 233,
+			"state_code": "77",
+			"code": "7701",
+			"default_name": "Altınova"
+		},
+		{
+			"country_id": 233,
+			"state_code": "77",
+			"code": "7702",
+			"default_name": "Armutlu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "77",
+			"code": "7703",
+			"default_name": "Çiftlikköy"
+		},
+		{
+			"country_id": 233,
+			"state_code": "77",
+			"code": "7704",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "77",
+			"code": "7705",
+			"default_name": "Termal"
+		},
+		{
+			"country_id": 233,
+			"state_code": "77",
+			"code": "7706",
+			"default_name": "Çınarcık"
+		}
+	],
+	"78": [
+		{
+			"country_id": 233,
+			"state_code": "78",
+			"code": "7801",
+			"default_name": "Eflani"
+		},
+		{
+			"country_id": 233,
+			"state_code": "78",
+			"code": "7802",
+			"default_name": "Eskipazar"
+		},
+		{
+			"country_id": 233,
+			"state_code": "78",
+			"code": "7803",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "78",
+			"code": "7804",
+			"default_name": "Ovacık"
+		},
+		{
+			"country_id": 233,
+			"state_code": "78",
+			"code": "7805",
+			"default_name": "Safranbolu"
+		},
+		{
+			"country_id": 233,
+			"state_code": "78",
+			"code": "7806",
+			"default_name": "Yenice"
+		}
+	],
+	"79": [
+		{
+			"country_id": 233,
+			"state_code": "79",
+			"code": "7901",
+			"default_name": "Elbeyli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "79",
+			"code": "7902",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "79",
+			"code": "7903",
+			"default_name": "Musabeyli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "79",
+			"code": "7904",
+			"default_name": "Polateli"
+		}
+	],
+	"80": [
+		{
+			"country_id": 233,
+			"state_code": "80",
+			"code": "8001",
+			"default_name": "Bahçe"
+		},
+		{
+			"country_id": 233,
+			"state_code": "80",
+			"code": "8002",
+			"default_name": "Düziçi"
+		},
+		{
+			"country_id": 233,
+			"state_code": "80",
+			"code": "8003",
+			"default_name": "Hasanbeyli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "80",
+			"code": "8004",
+			"default_name": "Kadirli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "80",
+			"code": "8005",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "80",
+			"code": "8006",
+			"default_name": "Sumbas"
+		},
+		{
+			"country_id": 233,
+			"state_code": "80",
+			"code": "8007",
+			"default_name": "Toprakkale"
+		}
+	],
+	"81": [
+		{
+			"country_id": 233,
+			"state_code": "81",
+			"code": "8101",
+			"default_name": "Akçakoca"
+		},
+		{
+			"country_id": 233,
+			"state_code": "81",
+			"code": "8102",
+			"default_name": "Cumayeri"
+		},
+		{
+			"country_id": 233,
+			"state_code": "81",
+			"code": "8103",
+			"default_name": "Çilimli"
+		},
+		{
+			"country_id": 233,
+			"state_code": "81",
+			"code": "8104",
+			"default_name": "Gölyaka"
+		},
+		{
+			"country_id": 233,
+			"state_code": "81",
+			"code": "8105",
+			"default_name": "Gümüşova"
+		},
+		{
+			"country_id": 233,
+			"state_code": "81",
+			"code": "8106",
+			"default_name": "Kaynaşlı"
+		},
+		{
+			"country_id": 233,
+			"state_code": "81",
+			"code": "8107",
+			"default_name": "Merkez"
+		},
+		{
+			"country_id": 233,
+			"state_code": "81",
+			"code": "8108",
+			"default_name": "Yığılca"
+		}
+	]
+}
